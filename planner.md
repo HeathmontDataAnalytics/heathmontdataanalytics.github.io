@@ -2,6 +2,10 @@
 
 ## Unit 3: Data Analytics (18 weeks)
 
+*NOTE:* 
+- Term 1 starts in Unit 3, Week 1 and goes until Unit 3 Week 10
+- Term 2 starts in Week 11 and continues to Unit 4 Week 2
+
 
 | **Week** | **Theory**                                               | **Practical**                                                    | **SAC/SAT Task**                                     |
 |----------|-----------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------|
@@ -9,13 +13,13 @@
 | 2        | Data types and sources                                    | Practice querying with SQL and gathering data from databases      |                                                      |
 | 3        | Data integrity, accuracy, and quality                     | Further SQL querying (JOINs, aggregations), focus on data integrity |                                                      |
 | 4        | Database relationships and management                     | Creating relational databases, using primary/foreign keys         |                                                      |
-| 5        | **Lighter Theory:** Database maintenance and indexing     | Advanced SQL queries, data collection from databases              | **SAC Task 1** (Database Solution) (2 lessons)       |
+| 5        | Database maintenance and indexing     | Advanced SQL queries, data collection from databases                                   | **SAC Task 1** (Database Solution) (2 lessons)       |
 | 6        | Descriptive statistics overview                           | Perform statistical analysis with spreadsheets                    |                                                      |
 | 7        | Data cleansing techniques in spreadsheets                 | Data cleansing and validation in spreadsheets                     | **SAC Task 2** (Spreadsheet Solution) (2 lessons)    |
 | 8        | Visualisation principles                                  | Introduction to data visualisation, basic tools for visualisation |                                                      |
-| 9        | **Lighter Theory:** Visual storytelling and infographics  | Create data visualisations and infographics using data sets       | **SAC Task 3** (Visualisation Solution) (2 lessons)  |
+| 9        | Visual storytelling and infographics  | Create data visualisations and infographics using data sets                            | **SAC Task 3** (Visualisation Solution) (2 lessons)  |
 | 10       | Techniques for refining data visualisations               | Refine visualisations and prepare SAT designs                     | Start **Outcome 2 SAT** (Data Analysis & Design)     |
-| 11       | **Project management strategies**                         | Update SAT project plans and monitor progress                     | Continue SAT work                                    |
+| 11       | Project management strategies                             | Update SAT project plans and monitor progress                     | Continue SAT work                                    |
 | 12       | Storytelling with data and audience targeting             | Focus on creating audience-specific visualisations                | Continue SAT work                                    |
 | 13       | Validation and testing of visualisations                  | Test and refine visualisations                                    | Continue SAT work                                    |
 | 14       | Legal and ethical considerations                          | Apply legal frameworks in SAT visualisation work                  | Continue SAT work                                    |
@@ -27,6 +31,10 @@
 ---
 
 ## Unit 4: Data Analytics (16 weeks)
+*NOTE:*
+- Term 3 starts in Unit 4 Week 3 and continues to Week 12
+- Term 4 is all for Exam Revision
+- Year 11 students will continue with revision classes after Year 12s finish, up until the exam
 | **Week** | **Theory**                                               | **Practical**                                                    | **SAC/SAT Task**                                     |
 |----------|-----------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------|
 | 1        | Recap Unit 3 SAT and Outcome 1 planning                   | Begin implementing dynamic visualisations                        | Start **Outcome 1 SAT** (Data Visualisations)        |
@@ -40,7 +48,7 @@
 | 9        | Introduction to Outcome 2 (Data Security)                 | Start data security analysis                                      |                                                      |
 | 10       | Cybersecurity threats and risk analysis                   | Analyze security threats and recommend solutions                  |                                                      |
 | 11       | Recommendations for data security improvements            | Prepare final recommendations and solutions                       |                                                      |
-| 12       | **Lighter Theory:** Data breach case studies              | Complete 2-period **Outcome 2 SAC** (Data Security)               | **Outcome 2 SAC** (Data Security) (2 lessons)        |
+| 12       |  Data breach case studies                                  | Complete 2-period **Outcome 2 SAC** (Data Security)               | **Outcome 2 SAC** (Data Security) (2 lessons)        |
 | 13       | Exam revision: Data analytics techniques review           | Review key Unit 3 & 4 content for final exam                      | **Exam revision**                                    |
 | 14       | Exam revision: Visualisation techniques                   | Practice data visualisation techniques for exam                   | **Exam revision**                                    |
 | 15       | Exam revision: Data security                              | Review cybersecurity and data integrity topics                    | **Exam revision**                                    |
