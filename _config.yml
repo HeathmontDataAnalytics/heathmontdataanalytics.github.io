@@ -4,6 +4,7 @@ description: A comprehensive resource for VCE Data Analytics Unit 3 & 4.
 baseurl: "/"
 url: "https://heathmontdataanalytics.github.io"
 markdown: GFM
+mermaid: true
 
 # Optional: Navigation links
 navigation:
