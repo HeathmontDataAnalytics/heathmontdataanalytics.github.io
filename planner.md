@@ -1,6 +1,8 @@
 # Course Planner - VCE Data Analytics
 
 ## Unit 3: Data Analytics (18 weeks)
+
+
 | **Week** | **Theory**                                               | **Practical**                                                    | **SAC/SAT Task**                                     |
 |----------|-----------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------|
 | 1        | Introduction to Data Analytics & SAT Overview             | Introduction to databases, SQL basics (SELECT, FROM, WHERE)       |                                                      |
