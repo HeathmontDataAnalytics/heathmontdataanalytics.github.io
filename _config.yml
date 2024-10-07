@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: daattali/beautiful-jekyll@6.0.1
 title: VCE Data Analytics
 description: A comprehensive resource for VCE Data Analytics Unit 3 & 4.
 baseurl: "/"
