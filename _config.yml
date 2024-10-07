@@ -1,0 +1,26 @@
+theme: jekyll-theme-cayman
+title: VCE Data Analytics
+description: A comprehensive resource for VCE Data Analytics Unit 3 & 4.
+baseurl: "/data-analytics-course"
+url: "https://<your-username>.github.io"
+
+# Optional: Navigation links
+navigation:
+  - title: Home
+    url: /
+  - title: Planner
+    url: /planner
+  - title: Databases & SQL
+    url: /topics/databases
+  - title: Spreadsheets
+    url: /topics/spreadsheets
+  - title: Visualisations
+    url: /topics/visualisations
+  - title: Project Management
+    url: /topics/project-management
+  - title: Legal & Ethical
+    url: /topics/legal-ethical
+  - title: Security
+    url: /topics/security
+  - title: Machine Learning
+    url: /topics/machine-learning
