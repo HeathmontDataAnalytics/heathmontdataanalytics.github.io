@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: VCE Data Analytics
 description: A comprehensive resource for VCE Data Analytics Unit 3 & 4.
 baseurl: "/data-analytics-course"
-url: "https://<your-username>.github.io"
+url: "https://heathmontdataanalytics.github.io"
 
 # Optional: Navigation links
 navigation:
