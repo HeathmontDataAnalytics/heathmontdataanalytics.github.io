@@ -22,6 +22,7 @@ Spreadsheets are powerful tools for data analysis and management. This section f
 
 ```excel
 =AVERAGE(B2:B20)
+```
 
 ### Exercise 2: Data Validation
 
