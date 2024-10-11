@@ -7,6 +7,11 @@ markdown: GFM
 mermaid: true
 class: wide
 
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-spaceship
+
 # Navigation links
 navigation:
   - title: Home
