@@ -1,4 +1,6 @@
-# VCE Data Analytics - Unit 3 & 4 Resource Hub
+# VCE Data Analytics
+
+## Unit 3 & 4 Resource Hub
 
 ![Data Analytics Robot](/assets/images/da_logo.png)
 
