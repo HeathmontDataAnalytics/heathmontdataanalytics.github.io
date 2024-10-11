@@ -8,6 +8,7 @@ Effective project management is essential for delivering successful data project
 
 - **Gantt Charts**: Visualizing tasks and timelines.
 - **Milestones**: Setting key goals and deadlines.
+- **Critical Path**: Identifying the tasks which can run concurrently 
 - **Risk Management**: Identifying and mitigating project risks.
 
 ## Learning Resources
@@ -25,6 +26,7 @@ Effective project management is essential for delivering successful data project
 - List potential risks for a data visualisation project and propose mitigation strategies.
 
 ```mermaid
+
 gantt
     title A Gantt Diagram
     dateFormat YYYY-MM-DD
