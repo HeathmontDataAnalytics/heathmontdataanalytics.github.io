@@ -1,17 +1,16 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
-title: VCE Data Analytics
-description: A comprehensive resource for VCE Data Analytics Unit 3 & 4.
+title: VCE Data Analytics Resource Page
+description: A resource for Heathmont College students studying VCE Applied Computing - Data Analytics Unit 3 & 4.
 baseurl: "/"
 url: "https://heathmontdataanalytics.github.io"
 markdown: GFM
 mermaid: true
+class: wide
 
-# Optional: Navigation links
+# Navigation links
 navigation:
   - title: Home
     url: /
-  - title: Planner
-    url: /planner
   - title: Databases & SQL
     url: /topics/databases
   - title: Spreadsheets
