@@ -35,7 +35,7 @@ Understanding databases is crucial for managing and analyzing data. This section
 - identify, select, extract and validate relevant data from large repositories using database software
 
 *Study design key knowledge and key skills are taken verbatim from the VCE Applied Computing Study Design 2025-2028.*
-**© Victorian Curriculum and Assessment Authority. For current versions and related content visit www.vcaa.vic.edu.au**
+**© Victorian Curriculum and Assessment Authority. For current versions and related content visit [www.vcaa.vic.edu.au](http://www.vcaa.vic.edu.au)**
 
 ## Learning Resources
 
