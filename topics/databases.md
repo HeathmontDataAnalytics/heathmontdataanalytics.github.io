@@ -34,6 +34,9 @@ Understanding databases is crucial for managing and analyzing data. This section
 
 - identify, select, extract and validate relevant data from large repositories using database software
 
+*Study design key knowledge and key skills are taken verbatim from the VCE Applied Computing Study Design 2025-2028.*
+**© Victorian Curriculum and Assessment Authority. For current versions and related content visit www.vcaa.vic.edu.au**
+
 ## Learning Resources
 
 - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
@@ -44,7 +47,7 @@ Understanding databases is crucial for managing and analyzing data. This section
 ### Exercise 1: Basic SELECT Queries
 
 ```sql
-SELECT * FROM students WHERE grade = 'A';
+SELECT * FROM students WHERE age = 17;
 ```
 
 ### Exercise 2: Creating a Database Table
@@ -53,6 +56,6 @@ SELECT * FROM students WHERE grade = 'A';
 CREATE TABLE students (
     id INTEGER PRIMARY KEY,
     name VARCHAR(100),
-    grade INTEGER
+    age INTEGER
 );
 ```
