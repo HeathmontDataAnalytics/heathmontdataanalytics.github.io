@@ -4,7 +4,7 @@
 
 ![Data Analytics Robot](/assets/images/da_logo.png)
 
-Welcome to the Data Analytics course resource hub! This site provides comprehensive resources, lesson plans, and key learning materials for VCE Data Analytics Unit 3 & 4.
+Welcome to the Heathmont College Data Analytics course resource hub! This site provides resources, lesson plans, and key learning materials for VCE Data Analytics Unit 3 & 4.
 
 Explore the **Course Planner** below, and dive into key concepts like **Databases & SQL**, **Spreadsheets**, **Data Visualisation**, **Project Management**, **Legal & Ethical Considerations**, **Data Security**, and **Machine Learning**.
 
