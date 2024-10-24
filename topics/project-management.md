@@ -25,7 +25,6 @@ Effective project management is essential for delivering successful data project
 
 - List potential risks for a data visualisation project and propose mitigation strategies.
 
-
 ```mermaid
     gantt
     title A Gantt Diagram
