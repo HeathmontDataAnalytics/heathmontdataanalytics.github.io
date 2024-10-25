@@ -56,5 +56,5 @@ Effective project management is essential for delivering successful data project
     Describe gantt syntax               :after doc1, 3d
     Add gantt diagram to demo page      :20h
     Add another diagram to demo page    :48h
-    Milestone example                   :0d
+    Milestone example                   :milestone, 0d
 ```
