@@ -18,6 +18,13 @@ Explore the **Course Planner** below, and dive into key concepts like **Database
 - [Data Security & Cybersecurity](topics/security.md)
 - [Machine Learning & AI](topics/machine-learning.md)
 
+### Assessment Pages
+
+- [Unit 3 SAC Tasks](assessments/unit3-sacs.md)
+- [SAT Task](assessments/sat.md)
+- [Unit 4 SAC Task](assessments/unit4-sacs.md)
+
+
 ## Course Planner - VCE Data Analytics
 
 ### Unit 3: Data Analytics (18 weeks)

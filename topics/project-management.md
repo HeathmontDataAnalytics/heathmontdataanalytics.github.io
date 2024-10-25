@@ -2,13 +2,14 @@
 
 ## Overview
 
-Effective project management is essential for delivering successful data projects. This section covers planning techniques, Gantt charts, and tracking progress.
+Effective project management is essential for delivering successful data projects. This section covers planning techniques, Gantt charts, and tracking progress. Lots of our focus for the project management is on tracking the progress of our SAT project and 
+associated tasks.
 
 ## Key Concepts
 
 - **Gantt Charts**: Visualizing tasks and timelines.
 - **Milestones**: Setting key goals and deadlines.
-- **Critical Path**: Identifying the tasks which can run concurrently and which tasks will delay the whole project if they are delayed themselves
+- **Critical Path**: Identifying the tasks which can run concurrently and which tasks will delay the whole project if they are delayed themselves. The critical path is the set of tasks which will delay the whole project if they are delayed
 - **Risk Management**: Identifying and mitigating project risks.
 
 ## Learning Resources
@@ -32,7 +33,7 @@ Effective project management is essential for delivering successful data project
     excludes weekends, Wednesday, Friday
 
     section Unit 3 - Analysis
-    Project Start               :milestone, a1, 01/02/2025, 1d
+    Project Start               : milestone, a1, 01/02/2025, 1d
     Identify Research Question  : done, a2, after a1,  5d
     Create project plan         : done, a3, after a2, 2d
     Gather requirements         : active, a4, after a2, 5d 
