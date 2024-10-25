@@ -27,34 +27,30 @@ Effective project management is essential for delivering successful data project
 
 ```mermaid
     gantt
-    dateFormat  YYYY-MM-DD
-    title       Adding GANTT diagram functionality to mermaid
-    excludes    weekends
-    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
+    title SAT Project Template
+    dateFormat DD/MM/YYYY
+    excludes weekends, Wednesday, Friday
 
-    section Analysis
-    Completed task            :done,    des1, 2014-01-06,2014-01-08
-    Active task               :active,  des2, 2014-01-09, 3d
-    Future task               :         des3, after des2, 5d
-    Future task2              :         des4, after des3, 5d
+    section Unit 3 - Analysis
+    Project Start               :milestone, a1, 01/02/2025, 1d
+    Identify Research Question  : done, a2, after a1,  5d
+    Create project plan         : done, a3, after a2, 2d
+    Gather requirements         : active, a4, after a2, 5d 
+    Analysis Complete           : milestone, after a3 a4, 1d
 
-    section Design
-    Completed task in the critical line :crit, done, 2014-01-06,24h
-    Implement parser and jison          :crit, done, after des1, 2d
-    Create tests for parser             :crit, active, 3d
-    Future task in critical line        :crit, 5d
-    Create tests for renderer           :2d
-    Add to mermaid                      :until isadded
-    Functionality added                 :milestone, isadded, 2014-01-25, 0d
+    section Unit 3 - Design
+    System Design               : d1, 01/04/2025, 10d
+    Evaluation Criteria created : d2, after d1, 5d
+    Design Ideas                : d3, after d2, 4d
+    Design Complete             : milestone,  dm, after d4, 0d
 
-    section Development
-    Describe gantt syntax               :active, a1, after des1, 3d
-    Add gantt diagram to demo page      :after a1  , 20h
-    Add another diagram to demo page    :doc1, after a1  , 48h
+    section Unit 4 - Development
+    Start Unit 4                : milestone, devstart, 20/07/2025, 1d
+    Create Data Visualisation   : dev1, after devstart, 12d
+    Testing                     : dev2, after dev1, 3d
+    Finalised                   : milestone, devm, after dev2, 0d
 
-    section Evaluation
-    Describe gantt syntax               :after doc1, 3d
-    Add gantt diagram to demo page      :20h
-    Add another diagram to demo page    :48h
-    Milestone example                   :milestone, 0d
+    section Unit 4 - Evaluation
+    Start Evaluation            : e1, after devm, 3d
+    Generate Eval Strategy      : e2, after e1, 3d
 ```
