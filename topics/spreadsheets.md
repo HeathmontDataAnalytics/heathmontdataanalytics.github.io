@@ -52,8 +52,6 @@ Spreadsheets are powerful tools for data analysis and management. This section f
 
 - conduct statistical analysis to identify trends, relationships and patterns
 
-
-
 ## Learning Resources
 
 - [Excel Basics for Data Analysis](https://www.microsoft.com/en-us/training)
