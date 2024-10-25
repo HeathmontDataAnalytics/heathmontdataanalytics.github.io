@@ -34,5 +34,7 @@ Effective project management is essential for delivering successful data project
         Another task              :after a1, 20d
     section Design
         Task in Design            :2014-01-28, 12d
-        another design task       :24d
+        Another design task       :des, 24d
+        A Milestone               :after des, 0d
+
 ```
