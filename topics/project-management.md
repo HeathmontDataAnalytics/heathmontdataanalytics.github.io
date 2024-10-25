@@ -42,7 +42,7 @@ Effective project management is essential for delivering successful data project
     System Design               : d1, 01/04/2025, 10d
     Evaluation Criteria created : d2, after d1, 5d
     Design Ideas                : d3, after d2, 4d
-    Design Complete             : milestone,  dm, after d4, 0d
+    Design Complete             : milestone,  dm, after d3, 0d
 
     section Unit 4 - Development
     Start Unit 4                : milestone, devstart, 20/07/2025, 1d
