@@ -11,7 +11,7 @@ class: wide
 navigation:
   - title: Home
     url: /
-  - title: Databases & SQL
+  - title: Databases and SQL
     url: /topics/databases
   - title: Spreadsheets
     url: /topics/spreadsheets
@@ -19,7 +19,7 @@ navigation:
     url: /topics/visualisations
   - title: Project Management
     url: /topics/project-management
-  - title: Legal & Ethical
+  - title: Legal and Ethical
     url: /topics/legal-ethical
   - title: Security
     url: /topics/security

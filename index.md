@@ -24,7 +24,6 @@ Explore the **Course Planner** below, and dive into key concepts like **Database
 - [SAT Task](assessments/sat.md)
 - [Unit 4 SAC Task](assessments/unit4-sacs.md)
 
-
 ## Course Planner - VCE Data Analytics
 
 ### Unit 3: Data Analytics (18 weeks)
