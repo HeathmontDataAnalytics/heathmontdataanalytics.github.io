@@ -19,7 +19,7 @@ Effective project management is essential for delivering successful data project
 
 ### Exercise 1: Creating a Gantt Chart
 
-- Create a simple Gantt chart for a data analysis project using Excel or Google Sheets.
+- Create a simple Gantt chart.
 
 ### Exercise 2: Identifying Project Risks
 
