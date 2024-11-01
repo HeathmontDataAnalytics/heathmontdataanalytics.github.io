@@ -17,10 +17,10 @@ Data security protects information from unauthorized access and breaches. This s
 
 ## Example Exercises
 
-### Exercise 1: Understanding Encryption
+### Example 1: Understanding Encryption
 
 - Encrypt a message using a simple substitution cipher.
 
-### Exercise 2: Identifying Phishing Attacks
+### Example 2: Identifying Phishing Attacks
 
 - Analyze emails to identify potential phishing attempts.

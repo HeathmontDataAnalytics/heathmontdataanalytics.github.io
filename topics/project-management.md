@@ -15,13 +15,13 @@ Effective project management is essential for delivering successful data project
 
 - [Gantt Chart Basics](https://www.smartsheet.com/gantt-chart)
 
-## Example Exercises
+## Examples
 
-### Exercise 1: Creating a Gantt Chart
+### Example 1: Creating a Gantt Chart
 
 - Create a simple Gantt chart.
 
-### Exercise 2: Identifying Project Risks
+### Example 2: Identifying Project Risks
 
 - List potential risks for a data visualisation project and propose mitigation strategies.
 

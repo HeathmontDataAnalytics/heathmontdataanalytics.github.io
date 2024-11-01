@@ -15,12 +15,12 @@ Understanding the legal and ethical aspects of data handling is crucial for comp
 - [Office of the Australian Information Commissioner (OAIC)](https://www.oaic.gov.au/)
 - [Ethics in Data Science](https://datascienceethics.com/)
 
-## Example Exercises
+## Examples
 
-### Exercise 1: Case Study on Data Breach
+### Example 1: Case Study on Data Breach
 
 - Analyze a recent data breach and discuss the legal implications.
 
-### Exercise 2: Privacy Impact Assessment
+### Example 2: Privacy Impact Assessment
 
 - Conduct a privacy impact assessment for a hypothetical data collection project.
