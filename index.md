@@ -6,6 +6,7 @@
 
 Welcome to the Data Analytics course resource hub! This site provides valueable resources and key learning materials for VCE Data Analytics Unit 3 & 4. It will get updated throughout our time together to ensure it has as many of the resources we need as possible.
 
+
 Explore the **Course Planner** below, and dive into key concepts like **Databases & SQL**, **Spreadsheets**, **Data Visualisation**, **Project Management**, **Legal & Ethical Considerations**, **Data Security**, and **Machine Learning & AI**.
 
 ### Topic Pages
@@ -17,6 +18,12 @@ Explore the **Course Planner** below, and dive into key concepts like **Database
 - [Legal & Ethical Considerations](topics/legal-ethical.md)
 - [Data Security & Cybersecurity](topics/security.md)
 - [Machine Learning & AI](topics/machine-learning.md)
+
+### Assessment Pages
+
+- [Unit 3 SAC Tasks](assessments/unit3-sacs.md)
+- [SAT Task](assessments/sat.md)
+- [Unit 4 SAC Task](assessments/unit4-sacs.md)
 
 ## Course Planner - VCE Data Analytics
 
@@ -71,7 +78,7 @@ Explore the **Course Planner** below, and dive into key concepts like **Database
 | 9        | Introduction to Outcome 2 (Data Security)                 | Start data security analysis                                      |                                                      |
 | 10       | Cybersecurity threats and risk analysis                   | Analyze security threats and recommend solutions                  |                                                      |
 | 11       | Recommendations for data security improvements            | Prepare final recommendations and solutions                       |                                                      |
-| 12       |  Data breach case studies                                  | Complete 2-period **Outcome 2 SAC** (Data Security)               | **Outcome 2 SAC** (Data Security) (2 lessons)        |
+| 12       | Data breach case studies                                  | Complete 2-period **Outcome 2 SAC** (Data Security)               | **Outcome 2 SAC** (Data Security) (2 lessons)        |
 | 13       | Exam revision: Data analytics techniques review           | Review key Unit 3 & 4 content for final exam                      | **Exam revision**                                    |
 | 14       | Exam revision: Visualisation techniques                   | Practice data visualisation techniques for exam                   | **Exam revision**                                    |
 | 15       | Exam revision: Data security                              | Review cybersecurity and data integrity topics                    | **Exam revision**                                    |

@@ -14,12 +14,12 @@ Data visualisation helps convey complex information clearly. This section covers
 - [Data Visualization Best Practices](https://www.tableau.com/learn/articles/data-visualization)
 - [Chart Types Guide](https://datavizcatalogue.com/)
 
-## Example Exercises
+## Examples
 
-### Exercise 1: Creating a Bar Chart
+### Example 1: Creating a Bar Chart
 
 - Create a bar chart comparing sales data across different regions.
 
-### Exercise 2: Building an Interactive Dashboard
+### Example 2: Building an Interactive Dashboard
 
 - Use a tool like Google Data Studio to create an interactive dashboard from a dataset.

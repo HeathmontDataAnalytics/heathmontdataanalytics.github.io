@@ -49,8 +49,9 @@ including data that may be copyrighted.
 - [Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 
-## Example Exercises
+## Examples
 
-### Exercise 1: Building a Linear Regression Model
+### Example 1: Building a Linear Regression Model
 
 - Use Excel or Google Sheets to create a simple linear regression model.
+

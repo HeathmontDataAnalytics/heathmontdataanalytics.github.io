@@ -1,22 +1,17 @@
-remote_theme: daattali/beautiful-jekyll@6.0.1
+theme: minima
 title: VCE Data Analytics Resource Page
 description: A resource for Heathmont College students studying VCE Applied Computing - Data Analytics Unit 3 & 4.
 baseurl: "/"
 url: "https://heathmontdataanalytics.github.io"
-markdown: GFM
-mermaid: true
 class: wide
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-spaceship
+
 
 # Navigation links
 navigation:
   - title: Home
     url: /
-  - title: Databases & SQL
+  - title: Databases and SQL
     url: /topics/databases
   - title: Spreadsheets
     url: /topics/spreadsheets
@@ -24,7 +19,7 @@ navigation:
     url: /topics/visualisations
   - title: Project Management
     url: /topics/project-management
-  - title: Legal & Ethical
+  - title: Legal and Ethical
     url: /topics/legal-ethical
   - title: Security
     url: /topics/security
