@@ -1,10 +1,13 @@
-theme: jekyll-theme-minimal
+remote_theme: daviddarnes/alembic@main
 title: VCE Data Analytics Resource Page
 description: A resource for Heathmont College students studying VCE Applied Computing - Data Analytics Unit 3 & 4.
 baseurl: "/"
 url: "https://heathmontdataanalytics.github.io"
 class: wide
 
+# Plugins
+plugins:
+  - jekyll-remote-theme
 
 
 # Navigation links
