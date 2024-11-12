@@ -8,6 +8,7 @@ class: wide
 # Plugins
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 
 # Navigation links
