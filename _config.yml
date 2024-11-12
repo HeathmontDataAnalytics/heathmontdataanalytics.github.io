@@ -1,4 +1,4 @@
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: pages-themes/minimal@v0.2.0
 title: VCE Data Analytics Resource Page
 description: A resource for Heathmont College students studying VCE Applied Computing - Data Analytics Unit 3 & 4.
 baseurl: "/"
