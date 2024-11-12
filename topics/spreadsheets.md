@@ -15,7 +15,7 @@ Spreadsheets are powerful tools for data analysis and management. This section f
 
 **Key Knowledge:**
 
-- design tools for representing databases and spreadsheets, including: 
+- design tools for representing databases and spreadsheets, including:
   - data dictionaries
   - query designs
   - layout diagrams
@@ -51,6 +51,9 @@ Spreadsheets are powerful tools for data analysis and management. This section f
 **Key Skills:**
 
 - conduct statistical analysis to identify trends, relationships and patterns
+
+*Study design key knowledge and key skills are taken verbatim from the VCE Applied Computing Study Design 2025-2028.*
+**© Victorian Curriculum and Assessment Authority. For current versions and related content visit www.vcaa.vic.edu.au**
 
 ## Learning Resources
 

@@ -2,8 +2,8 @@
 
 ## Overview
 
-Machine learning allows computers to learn from data without being explicitly programmed. This section explores basic ML concepts, algorithms, and applications in data analysis. In Data Analytics we look at artificial intelligence as a software feature for 
-analysing data, as well as using machine learning for making predictions or recommendations. AI is also part of our study of 
+Machine learning allows computers to learn from data without being explicitly programmed. This section explores basic ML concepts, algorithms, and applications in data analysis. In Data Analytics we look at artificial intelligence as a software feature for
+analysing data, as well as using machine learning for making predictions or recommendations. AI is also part of our study of
 cyber security and ethical issues.
 
 ## Key Concepts
@@ -11,7 +11,7 @@ cyber security and ethical issues.
 - **Supervised vs. Unsupervised Learning**: Understanding different types of learning.
 - **Common Algorithms**: Linear regression, decision trees, and clustering.
 - **AI in protecting data**: ways AI tools can be used to protect data integrity
-- **Ethical use of data in AI**: understanding the ethical issues posed by large machine-learning models' use of data, 
+- **Ethical use of data in AI**: understanding the ethical issues posed by large machine-learning models' use of data,
 including data that may be copyrighted.
 
 ## Machine Learning and AI in the Study Design
@@ -23,7 +23,7 @@ including data that may be copyrighted.
 - emerging trends in data analytics using artificial intelligence, including:
   - integration of artificial intelligence features into software tools
   - generating data visualisations through the writing and refinement of prompts
-  - machine learning and statistical modelling for making predictions, decisions and recommendations 
+  - machine learning and statistical modelling for making predictions, decisions and recommendations
 
 ### Unit 4 Outcome 1
 
@@ -43,15 +43,14 @@ including data that may be copyrighted.
 - ethical issues arising from the implementation of data and information security practices, including:
   - data collection and use
 
-
 ## Learning Resources
 
 - [Introduction to Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 
-## Examples
+## Exercises
 
-### Example 1: Building a Linear Regression Model
+### Exercise 1: Building a Linear Regression Model
 
 - Use Excel or Google Sheets to create a simple linear regression model.
-
+- Analyze the results and identify the relationship between variables.
