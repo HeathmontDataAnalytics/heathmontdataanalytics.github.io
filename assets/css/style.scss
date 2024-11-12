@@ -20,3 +20,11 @@ section {
     padding: 20px 0;
     width: 800px;
 }
+
+th, td {
+    text-align: left;
+    padding: 5px 10px;
+    border: 1px solid #e0e0e0;
+}
+
+tr:nth-child(even) {background-color: #d0d0d0;}
