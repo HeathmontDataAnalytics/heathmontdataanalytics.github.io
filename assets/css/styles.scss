@@ -1,3 +1,9 @@
+
+
+---
+---
+
+@import "{{ site.theme }}";
 .wrapper {
     width: 1000px;
     margin: 0 auto;
@@ -8,10 +14,4 @@ section {
     padding: 20px 0;
     width: 700px;
 }
-
----
----
-
-@import "{{ site.theme }}";
-
 //Proof that this gets added at all? 2
