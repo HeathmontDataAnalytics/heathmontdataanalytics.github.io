@@ -1,4 +1,4 @@
-# Legal & Ethical Considerations
+# Legal and Ethical Considerations
 
 ## Overview
 
@@ -47,6 +47,10 @@ Understanding the legal and ethical aspects of data handling is crucial for comp
   - data collection and use
   - identity theft
   - lack of transparency in the event of a cyber security incident
+
+**Key Skills:**
+
+- identify and discuss possible legal and ethical consequences of ineffective data and information security strategies
 
 *Study design key knowledge and key skills are taken verbatim from the VCE Applied Computing Study Design 2025-2028.*
 **© Victorian Curriculum and Assessment Authority. For current versions and related content visit [www.vcaa.vic.edu.au](https://www.vcaa.vic.edu.au)**

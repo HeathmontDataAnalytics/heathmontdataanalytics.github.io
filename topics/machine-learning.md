@@ -1,4 +1,4 @@
-# Machine Learning & AI
+# Machine Learning and AI
 
 ## Overview
 
@@ -42,6 +42,9 @@ including data that may be copyrighted.
   - the use of artificial intelligence to protect data
 - ethical issues arising from the implementation of data and information security practices, including:
   - data collection and use
+
+*Study design key knowledge and key skills are taken verbatim from the VCE Applied Computing Study Design 2025-2028.*
+**© Victorian Curriculum and Assessment Authority. For current versions and related content visit [www.vcaa.vic.edu.au](https://www.vcaa.vic.edu.au)**
 
 ## Learning Resources
 

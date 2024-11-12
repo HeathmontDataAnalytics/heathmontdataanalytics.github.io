@@ -11,6 +11,28 @@ Effective project management is essential for delivering successful data project
 - **Critical Path**: Identifying the tasks which can run concurrently and which tasks will delay the whole project if they are delayed themselves. The critical path is the set of tasks which will delay the whole project if they are delayed
 - **Risk Management**: Identifying and mitigating project risks.
 
+## Project Management in the Study Design
+
+### Unit 3 Outcome 2
+
+**Key Knowledge:**
+
+- features of project management to develop a project plan using Gantt charts, including:
+  - identification of tasks
+  - sequencing of tasks
+  - time allocation
+  - dependencies
+  - milestones
+  - critical path
+  - monitoring and documenting the progress of projects
+
+**Key Skills:**
+
+- create, monitor and modify project plans using software
+
+*Study design key knowledge and key skills are taken verbatim from the VCE Applied Computing Study Design 2025-2028.*
+**© Victorian Curriculum and Assessment Authority. For current versions and related content visit [www.vcaa.vic.edu.au](https://www.vcaa.vic.edu.au)**
+
 ## Learning Resources
 
 - [Gantt Chart Basics](https://www.smartsheet.com/gantt-chart)

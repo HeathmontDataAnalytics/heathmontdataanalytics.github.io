@@ -1,4 +1,4 @@
-# Databases & SQL
+# Databases and SQL
 
 ## Overview
 

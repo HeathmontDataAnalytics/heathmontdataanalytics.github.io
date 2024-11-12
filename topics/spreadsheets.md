@@ -1,4 +1,4 @@
-# Spreadsheets & Data Cleansing
+# Spreadsheets and Data Cleansing
 
 ## Overview
 
