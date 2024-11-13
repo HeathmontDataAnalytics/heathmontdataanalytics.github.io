@@ -68,17 +68,29 @@ This means that we can retrieve all the information about each employees departm
 
 ### Example 1: Basic SQL Queries
 
+#### Select all columns from students where their age is equal to 17
+
 ```sql
 SELECT * FROM students WHERE age = 17;
 ```
 
-Query: *Select all columns from students where their age is equal to 17*
+#### Select the name and age columns from students and order them by age in descending order
 
 ```sql
 SELECT name, age FROM students ORDER BY age DESC;
 ```
 
-Query: *Select the name and age columns from students and order them by age in descending order*
+#### Insert a new student into the students table
+
+```sql
+INSERT INTO students (first_name, last_name, age, year_level) VALUES ('John', 'Doe', 17, 11);
+```
+
+#### Update a specific student's year level
+
+```sql
+UPDATE students SET year_level = 12 WHERE student_id = 131;
+```
 
 ### Example 2: Creating a Database Table
 
