@@ -34,7 +34,7 @@ Effective project management is essential for delivering successful data project
 
 **Key Knowledge:**
 
--	techniques for recording the progress of projects, including:
+- techniques for recording the progress of projects, including:
   - adjustments to tasks
   - adjustments to time frames
   - annotations to project plans
