@@ -8,7 +8,7 @@ Welcome to the Data Analytics course resource hub! This site provides valueable 
 
 Explore the **Course Planner** below, dive into the **Topic Pages** for detailed information, and check out the **Assessment Pages** for SAC, SAT and Exam details.
 
-### Topic Pages
+### Topics
 
 - [Databases and SQL](topics/databases.md)
 - [Spreadsheets and Data Cleansing](topics/spreadsheets.md)
@@ -18,7 +18,7 @@ Explore the **Course Planner** below, dive into the **Topic Pages** for detailed
 - [Cybersecurity](topics/security.md)
 - [Machine Learning & AI](topics/machine-learning.md)
 
-### Assessment Pages
+### Assessment
 
 - [Unit 3 SAC Tasks](assessments/unit3-sacs.md)
 - [SAT Task](assessments/sat.md)
