@@ -51,6 +51,10 @@ header {
     text-align:center;
 }
 
+header h1 {
+    color: #333366;
+}
+
 section h1 {
     font-size: 28px;
     background-color: #333366;
@@ -67,8 +71,16 @@ section h2 {
     color: #e4e3fc;
 }
 
-section ul {
-    padding:5px;
-    border-top:#4646aa 1px solid;
-    border-bottom:#4646aa 1px solid;
+section h3 {
+    font-size: 20px;
+    background-color: #a7a7da;
+    padding: 4px;
+    border-radius: 4px;
 }
+
+section ul {
+    padding-top:8px;
+    padding-bottom:8px;
+    border-top:#a7a7da 1px solid;
+    border-bottom:#a7a7da 1px solid;
+}   
