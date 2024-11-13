@@ -6,7 +6,7 @@ Understanding the legal and ethical aspects of data handling is crucial for comp
 
 ## Key Concepts
 
-- **Privacy Act 1988**: Overview of the Australian legislation.
+- **Privacy Laws**: What laws exist? Who do they apply to? What do you need to do to follow the law?
 - **Notifiable Data Breaches (NDB) Scheme**: Understanding reporting requirements.
 - **Ethical Considerations**: Fair use, data transparency, and user consent.
 
@@ -34,8 +34,6 @@ Understanding the legal and ethical aspects of data handling is crucial for comp
 **Key Knowledge:**
 
 - the importance of data and information security to organisations, including:
-  - *safeguarding business operations*
-  - *mitigating financial loss and reputational damage*
   - compliance with legal obligations
 - key legislation that affects how organisations control the collection, communication and security of their data and information, including:
   - Health Records Act 2001 (HPP 1, 2, 4, 5)

@@ -50,6 +50,20 @@ Understanding databases is crucial for managing and analyzing data. This section
 - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
 - [SQL Commands Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)
 
+## Relational Database Management
+
+### What is a database?
+
+A database is an organized collection of data, typically stored and accessed electronically from a computer system. **Relational Databases** are databases that model the data in tables with rows and columns. Each **table** represents an entity, and each **row** represents a record. The **columns** represent attributes or fields. In relational databases, tables are linked using foreign key to primary key relationships.
+
+### Primary Key and Foreign Key Relationships
+
+A **primary key** is a unique identifier for each record in a table. It must contain unique values and cannot be NULL. A **foreign key** is a field in a table that links to the primary key in another table. This establishes a relationship between those two tables.
+
+For example, in an `employees` table, the `employee_id` could be the primary key. In a `departments` table, the `department_id` could be the primary key. If each employee belongs to a department, the `department_id` in the `employees` table would be a foreign key linking to the `department_id` in the `departments` table.
+
+This means that we can retrieve all the information about each employees department (location, department name, phone number, manager, etc.) without needing to rewrite that information for each employee in the department. This is an important feature of relational databases.
+
 ## Examples
 
 ### Example 1: Basic SQL Queries
@@ -57,6 +71,14 @@ Understanding databases is crucial for managing and analyzing data. This section
 ```sql
 SELECT * FROM students WHERE age = 17;
 ```
+
+Query: *Select all columns from students where their age is equal to 17*
+
+```sql
+SELECT name, age FROM students ORDER BY age DESC;
+```
+
+Query: *Select the name and age columns from students and order them by age in descending order*
 
 ### Example 2: Creating a Database Table
 
