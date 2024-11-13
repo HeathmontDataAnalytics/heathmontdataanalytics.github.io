@@ -6,7 +6,7 @@
 
 Welcome to the Data Analytics course resource hub! This site provides valueable resources and key learning materials for VCE Data Analytics Unit 3 & 4. It will get updated throughout our time together to ensure it has as many of the resources we need as possible.
 
-Explore the **Course Planner** below, and dive into key concepts like **Databases & SQL**, **Spreadsheets**, **Data Visualisation**, **Project Management**, **Legal & Ethical Considerations**, **Data Security**, and **Machine Learning & AI**.
+Explore the **Course Planner** below, dive into the **Topic Pages** for detailed information, and check out the **Assessment Pages** for SAC, SAT and Exam details.
 
 ### Topic Pages
 
@@ -23,6 +23,7 @@ Explore the **Course Planner** below, and dive into key concepts like **Database
 - [Unit 3 SAC Tasks](assessments/unit3-sacs.md)
 - [SAT Task](assessments/sat.md)
 - [Unit 4 SAC Task](assessments/unit4-sacs.md)
+- [Exam Details](assessments/exam.md)
 
 ## Course Planner - VCE Data Analytics
 
