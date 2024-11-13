@@ -29,8 +29,6 @@ Explore the **Course Planner** below, dive into the **Topic Pages** for detailed
 
 ### Unit 3: Data Analytics (18 weeks)
 
-*NOTE:*
-
 - Term 1 starts in Unit 3, Week 1 and goes until Unit 3 Week 10
 - Term 2 starts in Week 11 and continues to Unit 4 Week 2
 
@@ -59,11 +57,8 @@ Explore the **Course Planner** below, dive into the **Topic Pages** for detailed
 
 ### Unit 4: Data Analytics (16 weeks)
 
-*NOTE:*
-
 - Term 3 starts in Unit 4 Week 3 and continues to Week 12
 - Term 4 is all for Exam Revision
-- Year 11 students will continue with revision classes after Year 12s finish, up until the exam
 
 | **Week** | **Theory**                                               | **Practical**                                                    | **SAC/SAT Task**                                     |
 |----------|-----------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------|
