@@ -34,6 +34,13 @@ Understanding databases is crucial for managing and analyzing data. This section
 
 - identify, select, extract and validate relevant data from large repositories using database software
 
+---
+*Unit 4 Outcome 1 Note*
+
+*While databases may be used in the Unit 4 Outcome 1 SAT task, the key knowledge and key skills do not directly mention database use.*
+
+---
+
 *Study design key knowledge and key skills are taken verbatim from the VCE Applied Computing Study Design 2025-2028.*
 **© Victorian Curriculum and Assessment Authority. For current versions and related content visit [www.vcaa.vic.edu.au](https://www.vcaa.vic.edu.au)**
 

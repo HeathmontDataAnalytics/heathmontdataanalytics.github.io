@@ -6,17 +6,16 @@
 
 Welcome to the Data Analytics course resource hub! This site provides valueable resources and key learning materials for VCE Data Analytics Unit 3 & 4. It will get updated throughout our time together to ensure it has as many of the resources we need as possible.
 
-
 Explore the **Course Planner** below, and dive into key concepts like **Databases & SQL**, **Spreadsheets**, **Data Visualisation**, **Project Management**, **Legal & Ethical Considerations**, **Data Security**, and **Machine Learning & AI**.
 
 ### Topic Pages
 
-- [Databases & SQL](topics/databases.md)
-- [Spreadsheets & Data Cleansing](topics/spreadsheets.md)
+- [Databases and SQL](topics/databases.md)
+- [Spreadsheets and Data Cleansing](topics/spreadsheets.md)
 - [Data Visualisation Techniques](topics/visualisations.md)
 - [Project Management Strategies](topics/project-management.md)
-- [Legal & Ethical Considerations](topics/legal-ethical.md)
-- [Data Security & Cybersecurity](topics/security.md)
+- [Legal and Ethical Considerations](topics/legal-ethical.md)
+- [Cybersecurity](topics/security.md)
 - [Machine Learning & AI](topics/machine-learning.md)
 
 ### Assessment Pages

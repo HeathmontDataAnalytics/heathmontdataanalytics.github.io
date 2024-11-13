@@ -1,4 +1,4 @@
-# Data Security and Cybersecurity
+# Cybersecurity
 
 ## Overview
 

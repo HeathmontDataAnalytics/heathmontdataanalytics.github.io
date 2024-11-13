@@ -30,6 +30,25 @@ Effective project management is essential for delivering successful data project
 
 - create, monitor and modify project plans using software
 
+### Unit 4 Outcome 1
+
+**Key Knowledge:**
+
+-	techniques for recording the progress of projects, including:
+  - adjustments to tasks
+  - adjustments to time frames
+  - annotations to project plans
+  - monitoring and documenting progress using logs/journals
+- techniques for assessing the effectiveness of a project plan, including:
+  - reviewing the number of changes made to the project plan during the project
+  - the reason changes were necessary
+  - the impact of changes on the completion of the project.
+
+**Key Skills:**
+
+-	monitor, modify and annotate project plans as necessary
+- assess the effectiveness of the project plan
+
 *Study design key knowledge and key skills are taken verbatim from the VCE Applied Computing Study Design 2025-2028.*
 **© Victorian Curriculum and Assessment Authority. For current versions and related content visit [www.vcaa.vic.edu.au](https://www.vcaa.vic.edu.au)**
 
