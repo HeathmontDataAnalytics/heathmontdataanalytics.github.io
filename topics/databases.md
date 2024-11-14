@@ -90,6 +90,53 @@ Some additional commands that are useful to learn are:
 - `SUM()`, `COUNT()`, `AVG()`, `MIN()`, `MAX()`: Aggregate functions for summarizing data
 - `HAVING`: Filter data after grouping has been performed
 
+### SQL Syntax
+
+`SELECT` statements are the most common SQL commands. The basic syntax for a `SELECT` statement is:
+
+```sql
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition;
+```
+
+This statement selects the specific columns (from the column list) from the table (specified by `table_name`) where the condition is true. The `WHERE` clause is optional, but it is used to filter the rows returned by the query.
+
+## SQL Joins
+
+**Joins** are used to combine rows from two or more tables based on a related column between them. There are different types of joins:
+
+- **INNER JOIN**: Returns rows when there is a match in both tables.
+- **LEFT JOIN (or LEFT OUTER JOIN)**: Returns all rows from the left table and the matched rows from the right table.
+- **RIGHT JOIN (or RIGHT OUTER JOIN)**: Returns all rows from the right table and the matched rows from the left table.
+- **FULL JOIN (or FULL OUTER JOIN)**: Returns rows when there is a match in one of the tables.
+
+### SQL Join Example
+
+Consider two tables, `employees` and `departments`, with the following columns:
+
+`employees` table:
+
+- `employee_id`
+- `first_name`
+- `last_name`
+- `department_id`
+
+`departments` table:
+
+- `department_id`
+- `department_name`
+- `location`
+
+To retrieve the `first_name`, `last_name`, and `department_name` of each employee, you could use an `INNER JOIN`:
+
+```sql
+SELECT employees.first_name, employees.last_name, departments.department_name
+FROM employees
+INNER JOIN departments
+ON employees.department_id = departments.department_id;
+```
+
 ### Data Types in SQL
 
 SQL supports a variety of data types, including:
@@ -103,7 +150,7 @@ SQL supports a variety of data types, including:
 
 Data types are especially important in SQL because they help ensure data integrity and accuracy. Databases will not allow data to be saved in a table unless the data type matches the column definition. This helps prevent errors and ensures that the data is consistent, but it also means that databases need to be carefully designed.
 
-### Basic SQL Queries
+### SQL Query Examples
 
 #### Select all columns from students where their age is equal to 17
 
@@ -139,3 +186,27 @@ CREATE TABLE students (
     age INTEGER
 );
 ```
+
+## Topic Questions
+
+### Question 1
+
+Why do we need a primary key in relational database tables?
+
+### Question 2
+
+What is the purpose of a foreign key in a relational database?
+
+### Question 3
+
+What is the difference between an `INNER JOIN` and a `LEFT JOIN` in SQL?
+
+### Question 4
+
+Describe why data types are important in SQL databases.
+
+### Question 5
+
+What SQL command would you use to update someone's email address in a `users` table?
+
+---
