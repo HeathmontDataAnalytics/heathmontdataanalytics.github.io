@@ -130,6 +130,7 @@ UPDATE students SET year_level = 12 WHERE student_id = 131;
 ```
 
 #### Create a new table
+
 ```sql
 CREATE TABLE students (
     student_id INTEGER PRIMARY KEY,
