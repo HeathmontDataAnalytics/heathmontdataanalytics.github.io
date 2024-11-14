@@ -4,10 +4,11 @@
 
 Understanding databases is crucial for managing and analyzing data. This section covers relational database concepts, SQL commands, and database management.
 
-## Key Concepts
+## Main Concepts
 
 - **Relational Database Management**: Understanding tables, primary keys, and foreign keys.
 - **SQL Commands**: `SELECT`, `FROM`, `WHERE`, `JOIN`, `ORDER BY`, `GROUP BY`, `INSERT`, `UPDATE`, `DELETE`, `CREATE TABLE`, `ALTER TABLE`.
+- **Large Repositories of data**: Techniques for identifying, selecting, extracting, and validating data.
 
 ## Databases in the Study Design
 
@@ -64,9 +65,45 @@ For example, in an `employees` table, the `employee_id` could be the primary key
 
 This means that we can retrieve all the information about each employees department (location, department name, phone number, manager, etc.) without needing to rewrite that information for each employee in the department. This is an important feature of relational databases.
 
-## Examples
+## SQL
 
-### Example 1: Basic SQL Queries
+**SQL** *(Structured Query Language)* is the standard language for relational database management systems. It is used to perform tasks such as querying data, updating data, and creating databases and tables. While most database systems have tiny differences in their implementation of SQL, it is almost entirely standardized across platforms.
+
+SQL allows you to perform a wide range of operations on a database, including selecting data, aggregating data, updating data, and deleting data from database tables. The SQL commands we study in Data Analytics are:
+
+- `SELECT`: Retrieve data from a database
+- `FROM`: Specify the table to retrieve data from
+- `WHERE`: Filter data based on a condition
+- `JOIN`: Combine rows from two or more tables based on a related column between them
+- `ORDER BY`: Sort the result set in ascending or descending order
+- `GROUP BY`: Group rows that have the same values into summary rows
+- `INSERT`: Insert new records into a table
+- `UPDATE`: Modify existing records in a table
+- `DELETE`: Remove records from a table
+
+Some additional commands that are useful to learn are:
+
+- `CREATE TABLE`: Create a new table in the database
+- `ALTER TABLE`: Modify an existing table in the database
+- `DROP TABLE`: Delete a table from the database
+- `CREATE SEQUENCE`: Create a sequence in the database
+- `SUM()`, `COUNT()`, `AVG()`, `MIN()`, `MAX()`: Aggregate functions for summarizing data
+- `HAVING`: Filter data after grouping has been performed
+
+### Data Types in SQL
+
+SQL supports a variety of data types, including:
+
+- `INTEGER`: A whole number
+- `DECIMAL`: A fixed-point number
+- `VARCHAR(n)`: A variable-length string with a maximum length of `n` (sometimes just called `TEXT`)
+- `DATE`: A date value
+- `TIME`: A time value
+- `BOOLEAN`: A true/false value
+
+Data types are especially important in SQL because they help ensure data integrity and accuracy. Databases will not allow data to be saved in a table unless the data type matches the column definition. This helps prevent errors and ensures that the data is consistent, but it also means that databases need to be carefully designed.
+
+### Basic SQL Queries
 
 #### Select all columns from students where their age is equal to 17
 
@@ -92,12 +129,12 @@ INSERT INTO students (first_name, last_name, age, year_level) VALUES ('John', 'D
 UPDATE students SET year_level = 12 WHERE student_id = 131;
 ```
 
-### Example 2: Creating a Database Table
-
+#### Create a new table
 ```sql
 CREATE TABLE students (
-    id INTEGER PRIMARY KEY,
-    name VARCHAR(100),
+    student_id INTEGER PRIMARY KEY,
+    first_name VARCHAR(100),
+    last_name VARCHAR(100),
     age INTEGER
 );
 ```
