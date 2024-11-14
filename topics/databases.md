@@ -106,10 +106,12 @@ This statement selects the specific columns (from the column list) from the tabl
 
 **Joins** are used to combine rows from two or more tables based on a related column between them. There are different types of joins:
 
-- **INNER JOIN**: Returns rows when there is a match in both tables.
-- **LEFT JOIN (or LEFT OUTER JOIN)**: Returns all rows from the left table and the matched rows from the right table.
-- **RIGHT JOIN (or RIGHT OUTER JOIN)**: Returns all rows from the right table and the matched rows from the left table.
-- **FULL JOIN (or FULL OUTER JOIN)**: Returns rows when there is a match in one of the tables.
+- `INNER JOIN`**`: Returns rows when there is a match in both tables.
+- `LEFT JOIN` (or `LEFT OUTER JOIN`): Returns all rows from the left table and the matched rows from the right table.
+- `RIGHT JOIN` (or `RIGHT OUTER JOIN`): Returns all rows from the right table and the matched rows from the left table.
+- `FULL JOIN` (or `FULL OUTER JOIN`): Returns rows when there is a match in one of the tables.
+
+In Data Analytics we primarily focus on `INNER JOIN` to combine rows from two tables where there is a match between the columns in both tables.
 
 ### SQL Join Example
 
@@ -208,5 +210,23 @@ Describe why data types are important in SQL databases.
 ### Question 5
 
 What SQL command would you use to update someone's email address in a `users` table?
+
+### Question 6
+
+Explain the difference between the `WHERE` and `HAVING` clauses in SQL.
+
+### Question 7
+
+Describe the results of the following SQL query:
+
+```sql
+
+SELECT department_name, COUNT(employee_id)
+FROM departments
+INNER JOIN employees
+ON departments.department_id = employees.department_id
+GROUP BY department_name;
+
+```
 
 ---
