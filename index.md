@@ -29,10 +29,8 @@ Explore the **Course Planner** below, dive into the **Topic Pages** for detailed
 
 ### Unit 3: Data Analytics (18 weeks)
 
-- Term 1 starts in Unit 3, Week 1 and goes until Unit 3 Week 10
-- Term 2 starts in Week 11 and continues to Unit 4 Week 2
-
 #### Term 1 - 10 weeks
+
 | **Week** | **Focus**                                               | **Theory**                                               | **Practical**                                                    | **SAC/SAT Task**                                     |
 |----------|--------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------|
 | 1        | [Databases](topics/databases.md)                         | Introduction to Data Analytics & SAT Overview             | Introduction to databases, SQL basics (SELECT, FROM, WHERE)       |                                                      |
@@ -61,7 +59,7 @@ Explore the **Course Planner** below, dive into the **Topic Pages** for detailed
 
 ---
 
-### Unit 4: Data Analytics 
+### Unit 4: Data Analytics
 
 | **Week** | **Focus**                                               | **Theory**                                               | **Practical**                                                    | **SAC/SAT Task**                                     |
 |----------|--------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------|
@@ -82,7 +80,7 @@ Explore the **Course Planner** below, dive into the **Topic Pages** for detailed
 | 10       | [Security](topics/security.md)                          | Cybersecurity threats and risk analysis                   | Analyze security threats and recommend solutions                  |                                                      |
 | 11       | [Security](topics/security.md)                          | Recommendations for data security improvements            | Prepare final recommendations and solutions                       |                                                      |
 
-#### Term 4 
+#### Term 4
 
 | **Week** | **Focus**                                               | **Theory**                                               | **Practical**                                                    | **SAC/SAT Task**                                     |
 |----------|--------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------|
