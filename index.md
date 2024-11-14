@@ -32,8 +32,7 @@ Explore the **Course Planner** below, dive into the **Topic Pages** for detailed
 - Term 1 starts in Unit 3, Week 1 and goes until Unit 3 Week 10
 - Term 2 starts in Week 11 and continues to Unit 4 Week 2
 
-### Unit 3: Data Analytics (18 weeks)
-
+#### Term 1 - 10 weeks
 | **Week** | **Focus**                                               | **Theory**                                               | **Practical**                                                    | **SAC/SAT Task**                                     |
 |----------|--------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------|
 | 1        | [Databases](topics/databases.md)                         | Introduction to Data Analytics & SAT Overview             | Introduction to databases, SQL basics (SELECT, FROM, WHERE)       |                                                      |
@@ -46,23 +45,33 @@ Explore the **Course Planner** below, dive into the **Topic Pages** for detailed
 | 8        | [Visualisations](topics/visualisations.md)              | Visualisation principles                                  | Introduction to data visualisation, basic tools for visualisation |                                                      |
 | 9        | [Visualisations](topics/visualisations.md)              | Visual storytelling and infographics  | Create data visualisations and infographics using data sets                            | **SAC Task 3** (Visualisation Solution) (2 lessons)  |
 | 10       | [Visualisations](topics/visualisations.md)              | Techniques for refining data visualisations               | Refine visualisations and prepare SAT designs                     | Start **Outcome 2 SAT** (Data Analysis & Design)     |
-| 11       | [Project Management](topics/project-management.md)       | Project management strategies                             | Update SAT project plans and monitor progress                     | Continue SAT work                                    |
-| 12       | [Visualisations](topics/visualisations.md)              | Storytelling with data and audience targeting             | Focus on creating audience-specific visualisations                | Continue SAT work                                    |
-| 13       | [Visualisations](topics/visualisations.md)              | Validation and testing of visualisations                  | Test and refine visualisations                                    | Continue SAT work                                    |
-| 14       | [Legal and Ethical](topics/legal-ethical.md)            | Legal and ethical considerations                          | Apply legal frameworks in SAT visualisation work                  | Continue SAT work                                    |
-| 15       | [Machine Learning](topics/machine-learning.md)          | Machine learning and AI in data analytics                 | Explore AI-based predictive models for SAT (if relevant)          | Continue SAT work                                    |
-| 16       | [Visualisations](topics/visualisations.md)              | Refinement of final visualisations                        | Finalize visualisations for the SAT                               | Continue SAT work (Finalising Design)                |
-| 17       | [Visualisations](topics/visualisations.md)              | Review and feedback on visualisations                     | Peer review of SAT visualisations and final adjustments           | Complete **SAT Part 1** (Due by Week 17)             |
+
+#### Term 2 - 11 weeks (Unit 3 Week 11 - Unit 4 Week 2)
+
+| **Week** | **Focus**                                               | **Theory**                                               | **Practical**                                                    | **SAC/SAT Task**                                     |
+|----------|--------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------|
+| 11       | [Project Management](topics/project-management.md)       | Project management strategies                             | Update SAT project plans and monitor progress                     | Continue [SAT](assessments/sat.md)   work                                    |
+| 12       | [Visualisations](topics/visualisations.md)              | Storytelling with data and audience targeting             | Focus on creating audience-specific visualisations                | Continue [SAT](assessments/sat.md)  work                                    |
+| 13       | [Visualisations](topics/visualisations.md)              | Validation and testing of visualisations                  | Test and refine visualisations                                    | Continue [SAT](assessments/sat.md)  work                                    |
+| 14       | [Legal and Ethical](topics/legal-ethical.md)            | Legal and ethical considerations                          | Apply legal frameworks in SAT visualisation work                  | Continue [SAT](assessments/sat.md)  work                                    |
+| 15       | [Machine Learning](topics/machine-learning.md)          | Machine learning and AI in data analytics                 | Explore AI-based predictive models for SAT (if relevant)          | Continue [SAT](assessments/sat.md)   work                                    |
+| 16       | [Visualisations](topics/visualisations.md)              | Refinement of final visualisations                        | Finalize visualisations for the SAT                               | Continue [SAT](assessments/sat.md) work (Finalising Design)                |
+| 17       | [Visualisations](topics/visualisations.md)              | Review and feedback on visualisations                     | Peer review of SAT visualisations and final adjustments           | Complete **SAT Unit 3** (Due by Week 17)             |
 | 18       | [SAT](assessments/sat.md)                               | Revision and preparation for Unit 3 SAC and SAT review    | Final review and complete work                                    | **Revision week**                                    |
 
 ---
 
-### Unit 4: Data Analytics (16 weeks)
+### Unit 4: Data Analytics 
 
 | **Week** | **Focus**                                               | **Theory**                                               | **Practical**                                                    | **SAC/SAT Task**                                     |
 |----------|--------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------|
 | 1        | [SAT](assessments/sat.md)                               | Recap Unit 3 SAT and Outcome 1 planning                   | Begin implementing dynamic visualisations                        | Start **Outcome 1 SAT** (Data Visualisations)        |
 | 2        | [Visualisations](topics/visualisations.md)              | Dynamic data visualisations and their applications        | Create wireframes for dynamic visualisations                      | Continue SAT work                                    |
+
+#### Term 3 - 9 weeks
+
+| **Week** | **Focus**                                               | **Theory**                                               | **Practical**                                                    | **SAC/SAT Task**                                     |
+|----------|--------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------|
 | 3        | [Spreadsheets](topics/spreadsheets.md)                  | Statistical analysis refinement techniques                | Analyze data and refine visualisations                            | Continue SAT work                                    |
 | 4        | [Visualisations](topics/visualisations.md)              | Infographic design principles                             | Develop interactive elements in visualisations                    | Continue SAT work                                    |
 | 5        | [Visualisations](topics/visualisations.md)              | Testing and evaluation strategies for visualisations      | Test visualisations and ensure usability                          | Continue SAT work                                    |
@@ -72,12 +81,16 @@ Explore the **Course Planner** below, dive into the **Topic Pages** for detailed
 | 9        | [Security](topics/security.md)                          | Introduction to Outcome 2 (Data Security)                 | Start data security analysis                                      |                                                      |
 | 10       | [Security](topics/security.md)                          | Cybersecurity threats and risk analysis                   | Analyze security threats and recommend solutions                  |                                                      |
 | 11       | [Security](topics/security.md)                          | Recommendations for data security improvements            | Prepare final recommendations and solutions                       |                                                      |
+
+#### Term 4 
+
+| **Week** | **Focus**                                               | **Theory**                                               | **Practical**                                                    | **SAC/SAT Task**                                     |
+|----------|--------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------|
 | 12       | [Security](topics/security.md)                          | Data breach case studies                                  | Complete 2-period **Outcome 2 SAC** (Data Security)               | **Outcome 2 SAC** (Data Security) (2 lessons)        |
 | 13       | [Exam](assessments/exam.md)                             | Exam revision: Data analytics techniques review           | Review key Unit 3 & 4 content for final exam                      | **Exam revision**                                    |
 | 14       | [Exam](assessments/exam.md)                             | Exam revision: Visualisation techniques                   | Practice data visualisation techniques for exam                   | **Exam revision**                                    |
 | 15       | [Exam](assessments/exam.md)                             | Exam revision: Data security                              | Review cybersecurity and data integrity topics                    | **Exam revision**                                    |
 | 16       | [Exam](assessments/exam.md)                             | Final exam preparation                                    | Mock exam and feedback session                                    | **Exam revision**                                    |
-
 
 ---
 
