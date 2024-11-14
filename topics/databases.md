@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Database Image - Created by ChatGPT4o/Dall-E](/assets/images/databases.png)
+![Database Image - Created by ChatGPT 4o](/assets/images/database.png)
 
 Understanding databases is crucial for managing and analyzing data. This section covers relational database concepts, SQL commands, and database management.
 

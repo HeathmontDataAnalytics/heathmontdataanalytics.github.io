@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Machine Learning and AI Image - Created by ChatGPT 4o](/assets/images/ai.png)
+
 Machine learning allows computers to learn from data without being explicitly programmed. This section explores basic ML concepts, algorithms, and applications in data analysis. In Data Analytics we look at artificial intelligence as a software feature for
 analysing data, as well as using machine learning for making predictions or recommendations. AI is also part of our study of
 cyber security and ethical issues.

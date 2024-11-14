@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Data Visualisation Image - Created by ChatGPT 4o](/assets/images/visualisations.png)
+
 Data visualisation helps convey complex information clearly. This section covers types of visualisations, best practices, and how to use tools like Excel or Tableau.
 
 ## Key Concepts

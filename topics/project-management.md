@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Project Management Image - Created by ChatGPT4o/Dall-E](/assets/images/projectmanagement.png)
+
 Effective project management is essential for delivering successful data projects. This section covers planning techniques, Gantt charts, and tracking progress. Lots of our focus for the project management is on tracking the progress of our SAT project and associated tasks.
 
 ## Key Concepts

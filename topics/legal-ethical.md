@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Legal/Ethical Image - Created by ChatGPT4o/Dall-E](/assets/images/legalethical.png)
+
 Understanding the legal and ethical aspects of data handling is crucial for compliance and trust. This section covers privacy laws, data protection, and ethical decision-making. It incorporates acknowledgement of intellectual property using the APA referencing system.
 
 ## Key Concepts

@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Cybersecurity Image - Created by ChatGPT4o/Dall-E](/assets/images/cybersecurity.png)
+
 Data security protects information from unauthorized access and breaches. This section covers encryption, data security best practices, and common cybersecurity threats.
 
 ## Key Concepts

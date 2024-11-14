@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Spreadsheets Image - Created by ChatGPT4o/Dall-E](/assets/images/spreadsheets.png)
+
 Spreadsheets are powerful tools for data analysis and management. This section focuses on using spreadsheet functions for calculations, data analysis, and data cleansing.
 
 ## Key Concepts
