@@ -203,7 +203,7 @@ Creating queries can be a complex endeavour, especially once you get past the le
 - **Extreme Values**: Test with extreme values to ensure the query can handle them. Using values well outside the expected might allow you to find an error you didn't anticipate.
   - *For example, if you are testing a query that should return all students younger than 17, you might also test with students aged 0 and 100. If the data was being stored as text, 100 would register as being lower than 17.*
 
-### Testing tables
+### Test Tables
 
 One way (and the primary way in Applied Computing) of recording your test results is through the use of a test table. Test tables have four columns:
 
@@ -222,13 +222,17 @@ FROM students
 WHERE age <= 17;
 ```
 
-To test this query, Roger would create a test table like this:
+**To test this query, Roger would create a test table like this:**
 
 | Feature Tested | Test Data | Expected Results | Actual Results |
 |----------------|-----------|------------------|----------------|
 | Students younger than 17 | age = 17. Table has 2 17 year old students | No students should be returned | Returned two students whose age was exactly 17 |
 | Students younger than 17 | age = 16.  Table has 3 16 year old students | All students aged 16 should be returned. | Returned three students aged 16 |
 | Students older than 17   | age = 18. | No students should be returned | No students were returned |
+| Students aged 0          | age = 0 An additional student with an age of 0 was added for testing | 1 student aged 0 should be returned | 1 student was returned |
+| Students aged 100        | age = 100 An additional student with an age of 100 was added for testing | No students should be returned | No students were returned |
+
+The test table has helped Roger to identify that his query is not returning the correct results for the first test. He can now go back and modify his query to ensure it is returning the correct results.
 
 ## Topic Questions
 
@@ -269,5 +273,9 @@ ON departments.department_id = employees.department_id
 GROUP BY department_name;
 
 ```
+
+### Question 8
+
+Write a proposed test table (without the "Actual Results") for the query used in Question 7. Include tests for departments with no employees, departments with multiple employees, and departments with only one employee.
 
 ---
