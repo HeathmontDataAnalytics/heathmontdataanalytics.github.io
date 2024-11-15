@@ -4,12 +4,7 @@
 
 ![Spreadsheets Image - Created by ChatGPT4o/Dall-E](/assets/images/spreadsheets.png)
 
-Spreadsheets are powerful tools for data analysis and management. This section focuses on using spreadsheet functions for calculations, data analysis, and data cleansing.
-
-## Key Concepts
-
-- **Spreadsheet Functions**: Formulas, functions (e.g., `SUM`, `AVERAGE`, `IF`), sorting, and filtering.
-- **Data Cleansing Techniques**: Removing duplicates, handling missing values, and validation rules.
+Spreadsheets are powerful tools for data analysis and management. This section focuses on using spreadsheet functions for calculations, data analysis, and data cleansing. You will learn how to manipulate data using formulas and functions, sort and filter data, and identify and fix errors in data. Additionally, you will explore techniques for statistically analyzing data to identify trends, relationships, and patterns.
 
 ## Spreadsheets and Data Cleansing in the Study Design
 
@@ -61,6 +56,34 @@ Spreadsheets are powerful tools for data analysis and management. This section f
 
 - [Excel Basics for Data Analysis](https://www.microsoft.com/en-us/training)
 - [Google Sheets Functions Guide](https://support.google.com/docs/answer/3093275)
+
+## Design Tools for Spreadsheets (and Databases)
+
+In the problem solving methodology, a Solution Design is focused on answering two key questions:
+
+- How will my solution work? (Sometimes called the functional design)
+- What will my solution look like? (Sometimes called the visual or user interface design)
+
+To answer these questions, we use a range of design tools. For spreadsheets and databases, these tools include:
+
+- Data Dictionaries
+- Query Designs
+- Layout Diagrams
+- Input-Process-Output (IPO) Charts
+
+### Data Dictionaries
+
+A data dictionary describes the fields in a spreadsheet or database table. It includes the name of the field, the data type, and a description of the data. This helps users understand the data and how it should be used. Data dictionaries help clarify the meaning of data and ensure consistency in data entry. They may include information about the format of the data (eg. Date format, the structure of a phone number, etc.).
+
+#### Example Data Dictionary
+
+| Field Name | Data Type | Description |
+|------------|-----------|-------------|
+| Student_ID | Number | Unique identifier for each student |
+| First_Name | Text | Student's first name |
+| Last_Name | Text | Student's last name |
+| DOB | Date | Student's date of birth |
+| Year_Level | Text | Student's year level |
 
 ## Example Exercises
 

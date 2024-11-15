@@ -23,6 +23,11 @@ Understanding databases is crucial for managing and analyzing data. This section
   - data in tables
   - relationships using primary and foreign key fields
   - use of SQL to generate queries
+- design tools for representing databases and spreadsheets, including:
+  - data dictionaries
+  - query designs
+  - layout diagrams
+  - input-process-output (IPO) charts
 - techniques for identifying, selecting, extracting and validating authentic data stored in large repositories, including:
   - downloading datasets in a range of formats
   - the use of SQL functions to retrieve, filter, sort and link dataset values (SELECT, FROM, WHERE, ORDER BY, INNER JOIN)
@@ -37,8 +42,13 @@ Understanding databases is crucial for managing and analyzing data. This section
 
 - identify, select, extract and validate relevant data from large repositories using database software
 
-*Study design key knowledge and key skills are taken verbatim from the VCE Applied Computing Study Design 2025-2028.*
-**© Victorian Curriculum and Assessment Authority. For current versions and related content visit [www.vcaa.vic.edu.au](https://www.vcaa.vic.edu.au)**
+*Study design key knowledge and key skills are taken verbatim from the VCE Applied Computing Study Design 2025-2028* **© Victorian Curriculum and Assessment Authority. For current versions and related content visit [www.vcaa.vic.edu.au](https://www.vcaa.vic.edu.au)**
+
+---
+
+### Unit 3 Outcome 1 Note
+
+The information about design tools covers both spreadsheets and databases, so the information for the key knowledge point "design tools for representing databases and spreadsheets," has been included in the page for [Spreadsheets and Data Cleansing. Click this link to go there now.](/topics/spreadsheets.md).
 
 ---
 
