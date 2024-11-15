@@ -191,6 +191,45 @@ CREATE TABLE students (
 );
 ```
 
+## Testing Databases
+
+Creating queries can be a complex endeavour, especially once you get past the level of single table queries with one condition. It becomes very important to thoroughly test your queries to ensure they are returning correct results.
+
+### Testing Principles
+
+- **Test the Query**: Run the query and check the results.
+- **Boundary Testing**: Test any `WHERE` conditions with values at the boundaries.
+- **Negative Testing**: Test to makes sure that rows that should be excluded from the results do not appear.
+- **Extreme Values**: Test with extreme values to ensure the query can handle them. Using values well outside the expected might allow you to find an error you didn't anticipate.
+  - *For example, if you are testing a query that should return all students younger than 17, you might also test with students aged 0 and 100. If the data was being stored as text, 100 would register as being lower than 17.*
+
+### Testing tables
+
+One way (and the primary way in Applied Computing) of recording your test results is through the use of a test table. Test tables have four columns:
+
+- **Feature Tested**: A description of what is being tested for in this case
+- **Test Data**: The data that was used in the test. This might be the specific row in the table you are looking for in the results, or the value of a variable/parameter you are using
+- **Expected Results**: What you expect to see in the results. This should be written ***before*** you run the test to avoid compromising your testing results
+- **Actual Results**: What you actually see in the results. In the event the first test fails you may record multiple test runs in the Actual Results column
+
+### Query Testing Example
+
+Consider that Roger has been asked to retrieve the names of all students younger than 17. He writes the following query:
+
+```sql
+SELECT first_name, last_name
+FROM students
+WHERE age <= 17;
+```
+
+To test this query, Roger would create a test table like this:
+
+| Feature Tested | Test Data | Expected Results | Actual Results |
+|----------------|-----------|------------------|----------------|
+| Students younger than 17 | age = 17. Table has 2 17 year old students | No students should be returned | Returned two students whose age was exactly 17 |
+| Students younger than 17 | age = 16.  Table has 3 16 year old students | All students aged 16 should be returned. | Returned three students aged 16 |
+| Students older than 17   | age = 18. | No students should be returned | No students were returned |
+
 ## Topic Questions
 
 ### Question 1

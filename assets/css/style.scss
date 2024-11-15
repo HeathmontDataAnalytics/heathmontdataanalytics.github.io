@@ -46,12 +46,13 @@ header {
     width: auto;
     background: beige;
     border-radius: 40px;
-    padding: 10px 8px 2px 8px;
+    padding: 25px 8px 2px 8px;
     text-align:center;
 }
 
 header h1 a {
     color: #333366;
+    font-size:1.2em;
 }
 
 h1, h2, h3{
@@ -90,4 +91,8 @@ section ul {
 
 footer {
     position: unset;
+}
+
+.view {
+    font-size:0.7em;
 }
