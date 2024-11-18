@@ -75,6 +75,8 @@ To answer these questions, we use a range of design tools. For spreadsheets and 
 
 A data dictionary describes the fields in a spreadsheet or database table. It includes the name of the field, the data type, and a description of the data. This helps users understand the data and how it should be used. Data dictionaries help clarify the meaning of data and ensure consistency in data entry. They may include information about the format of the data (eg. Date format, the structure of a phone number, etc.).
 
+Data dictionaries help build the functional design of a spreadsheet or database.
+
 #### Example Data Dictionary
 
 | Field Name | Data Type | Description |
@@ -82,8 +84,36 @@ A data dictionary describes the fields in a spreadsheet or database table. It in
 | Student_ID | Number | Unique identifier for each student |
 | First_Name | Text | Student's first name |
 | Last_Name | Text | Student's last name |
-| DOB | Date | Student's date of birth |
+| DOB | Date | Student's date of birth, input as YYYY-MM-DD |
 | Year_Level | Text | Student's year level |
+
+This example could be used for a CSV file, Spreadsheet or Database table, showing the design of the fields for a student dataset.
+
+### Query Designs
+
+Query designs specify the criteria for selecting data from a database or spreadsheet. They define the conditions that must be met for a record to be included in the results. Query designs are used to extract specific information from a dataset based on user requirements.
+
+#### Example Query Design
+
+- Select all students in Year 10.
+- Select students with a score greater than 80.
+- Select students born after 2005.
+
+These queries can be used to filter data in a spreadsheet or database to extract the required information.
+
+### Layout Diagrams
+
+Layout diagrams show the structure of a spreadsheet, or possibly the user interface to a database application. Layout diagrams help visualize the data model and understand how different elements are connected.
+
+### Input-Process-Output (IPO) Charts
+
+IPO charts describe the inputs, processes, and outputs of a system. In the context of spreadsheets and databases, IPO charts can be used to show how data is entered, processed, and presented to users.
+
+- **Inputs**: Data entered into the system (whether from an external system, user input or manually added to the file). The Input of an IPO chart might show the data fields in a form or spreadsheet, or describe how the data is imported.
+- **Processes**: Operations performed on the data (such as calculations, sorting, filtering, etc.). The Process of an IPO chart might show or describe the formulas going to be used in a spreadsheet, or the queries used to filter data in a database.
+- **Outputs**: Results produced by the system (such as reports, visualizations, etc.). The Output of an IPO chart might describe the data visualizations or reports generated from the data.
+
+IPO charts help in understanding the flow of data and operations in a system, and they are useful for designing and documenting the functional design of the spreadsheet or database.
 
 ## Example Exercises
 
