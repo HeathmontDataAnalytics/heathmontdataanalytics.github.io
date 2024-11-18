@@ -4,7 +4,7 @@
 
 ![Data Visualisation Image - Created by ChatGPT 4o](/assets/images/visualisations.png)
 
-Data visualisation helps convey complex information clearly. This section covers types of visualisations, best practices, and how to use tools like Matplotlib or Plotly to create visualisations from data. You will learn about the purposes of data visualisations, design tools, and formats to improve their effectiveness for intended users.
+Data visualisation helps convey complex information clearly. This section covers types of visualisations, best practices, and how to use tools like Matplotlib or Plotly to create visualisations from data, showcasing our results in Streamlit. You will learn about the purposes of data visualisations, design tools, and formats to improve their effectiveness for intended users.
 
 ## Data Visualisations in the Study Design
 
@@ -32,18 +32,15 @@ Data visualisation helps convey complex information clearly. This section covers
   - visual inspection of the appearance of the data visualisation
   - confirming that charts and graphs are representative of the data being visualised.
 
+**Key Skills:**
+
+- select, justify and apply functions, formats and conventions to create effective data visualisations
+- develop and apply suitable testing techniques to software tools used.
 
 ## Learning Resources
 
 - [Data Visualization Best Practices](https://www.tableau.com/learn/articles/data-visualization)
+- [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+- [Plotly Documentation](https://plotly.com/python/)
+- [Streamlit Documentation](https://docs.streamlit.io/)
 - [Chart Types Guide](https://datavizcatalogue.com/)
-
-## Examples
-
-### Example 1: Creating a Bar Chart
-
-- Create a bar chart comparing sales data across different regions.
-
-### Example 2: Building an Interactive Dashboard
-
-- Use a tool like Google Data Studio to create an interactive dashboard from a dataset.
