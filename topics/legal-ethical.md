@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Legal/Ethical Image - Created by ChatGPT4o/Dall-E](/assets/images/legalethical.png)
+![Legal/Ethical Image - Created by ChatGPT4o/DALL-E](/assets/images/legalethical.png)
 
 Understanding the legal and ethical aspects of data handling is crucial for compliance and trust. This section covers privacy laws, data protection, and ethical decision-making. It incorporates acknowledgement of intellectual property using the APA referencing system.
 
@@ -115,6 +115,18 @@ There are several online tools and software that can help you generate APA refer
 
 - [Office of the Australian Information Commissioner (OAIC)](https://www.oaic.gov.au/)
 - [Ethics in Data Science](https://datascienceethics.com/)
+
+## Relevant Articles
+
+### Bunnings Facial Recognition Case
+
+- [Bunnings breached Privacy Laws by using facial recognition on its customers - ABC News](https://www.abc.net.au/news/2024-11-19/oaic-investigation-into-bunnings-facial-recognition/104613700)
+- [Bunnings breached privacy law by scanning customers’ faces – but this loophole lets other shops keep doing it](https://theconversation.com/bunnings-breached-privacy-law-by-scanning-customers-faces-but-this-loophole-lets-other-shops-keep-doing-it-244031)
+
+### Medibank Data Breach
+
+- [Privacy watchdog sues Medibank over cyber hack
+- Sydney Morning Herald](https://www.smh.com.au/technology/privacy-watchdog-sues-medibank-over-cyber-hack-20240605-p5jjc6.html)
 
 ## Examples
 
