@@ -11,8 +11,19 @@ Understanding the legal and ethical aspects of data handling is crucial for comp
 - **Privacy Laws**: What laws exist? Who do they apply to? What do you need to do to follow the law?
 - **Notifiable Data Breaches (NDB) Scheme**: Understanding reporting requirements.
 - **Ethical Considerations**: Fair use, data transparency, and user consent.
+- **APA Referencing**: Properly citing sources to acknowledge intellectual property.
 
 ## Legal & Ethical Considerations in the Study Design
+
+### Unit 3 Outcome 1
+
+**Key Knowledge:**
+
+-	methods for referencing data sources using the American Psychological Association (APA) referencing system
+
+**Key Skills:**
+
+-	use the APA referencing system to acknowledge intellectual property
 
 ### Unit 3 Outcome 2
 
@@ -21,7 +32,6 @@ Understanding the legal and ethical aspects of data handling is crucial for comp
 - procedures and techniques for the ethical collection of primary data, including:
   - using participant information statements and/or consent forms
   - de-identifying personal data
-
 - key legal requirements for the protection of intellectual property and the collection, communication and security of data and information, including:
   - Copyright Act 1968 (Cwlth)
   - Health Records Act 2001 (HPP 1, 2, 4)
@@ -54,6 +64,52 @@ Understanding the legal and ethical aspects of data handling is crucial for comp
 
 *Study design key knowledge and key skills are taken verbatim from the VCE Applied Computing Study Design 2025-2028.*
 **© Victorian Curriculum and Assessment Authority. For current versions and related content visit [www.vcaa.vic.edu.au](https://www.vcaa.vic.edu.au)**
+
+## APA Referencing
+
+APA referencing is a widely used system for acknowledging sources in academic writing. It provides a consistent format for citing and referencing sources, making it easier for readers to locate the original sources.
+
+### In-Text Citations
+
+In-text citations are used to acknowledge sources within the text of your work. They include the author's last name and the publication year. For example:
+
+- (Smith, 2019)
+- (Jones & Brown, 2020)
+- (Johnson et al., 2018)
+
+### Reference List
+
+The reference list is a list of all the sources you have cited in your work. It is placed at the end of your document and provides detailed information about each source. The format for different types of sources (e.g., books, journal articles, websites) is standardized.
+
+### Example of a Book Reference
+
+Author, A. A. (Year). Title of work: Capital letter also for subtitle. Publisher.
+
+- Smith, J. (2017). Data Science for Beginners. Data Science Press.
+
+### Example of a Journal Article Reference
+
+Author, A. A., Author, B. B., & Author, C. C. (Year). Title of article. Title of Periodical, volume number(issue number), pages.
+
+- Johnson, R., Brown, S., & Lee, M. (2019). The impact of data breaches on consumer trust. Journal of Data Security, 5(2), 45-60.
+
+### Example of a Website Reference
+
+Author, A. A. (Year, Month Day). Title of webpage. Website Name. URL
+
+- Davis, K. (2020, June 15). The importance of data privacy. Data Privacy Today. [https://www.dataprivacytoday.com/importance-of-data-privacy/](https://www.dataprivacytoday.com/importance-of-data-privacy/)
+
+### APA Referencing Tools
+
+There are several online tools and software that can help you generate APA references. Some popular tools include:
+
+- [Cite This For Me](https://www.citethisforme.com/)
+- [Zotero](https://www.zotero.org/)
+- [Mendeley](https://www.mendeley.com/)
+- [EndNote](https://endnote.com/)
+- [EasyBib](https://www.easybib.com/)
+- [BibMe](https://www.bibme.org/)
+- [RefWorks](https://www.refworks.com/)
 
 ## Learning Resources
 
