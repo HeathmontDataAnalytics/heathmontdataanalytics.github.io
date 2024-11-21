@@ -81,19 +81,19 @@ In-text citations are used to acknowledge sources within the text of your work. 
 
 The reference list is a list of all the sources you have cited in your work. It is placed at the end of your document and provides detailed information about each source. The format for different types of sources (e.g., books, journal articles, websites) is standardized.
 
-### Example of a Book Reference
+#### Example of a Book Reference
 
 Author, A. A. (Year). Title of work: Capital letter also for subtitle. Publisher.
 
 - Smith, J. (2017). Data Science for Beginners. Data Science Press.
 
-### Example of a Journal Article Reference
+#### Example of a Journal Article Reference
 
 Author, A. A., Author, B. B., & Author, C. C. (Year). Title of article. Title of Periodical, volume number(issue number), pages.
 
 - Johnson, R., Brown, S., & Lee, M. (2019). The impact of data breaches on consumer trust. Journal of Data Security, 5(2), 45-60.
 
-### Example of a Website Reference
+#### Example of a Website Reference
 
 Author, A. A. (Year, Month Day). Title of webpage. Website Name. URL
 
