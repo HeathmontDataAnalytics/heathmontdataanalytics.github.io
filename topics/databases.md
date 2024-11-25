@@ -62,6 +62,7 @@ The information about design tools covers both spreadsheets and databases, so th
 
 - [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
 - [SQL Commands Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)
+- [Duck DB Shell Interface](https://shell.duckdb.org/)
 
 ## Relational Database Management
 
@@ -76,6 +77,29 @@ A **primary key** is a unique identifier for each record in a table. It must con
 For example, in an `employees` table, the `employee_id` could be the primary key. In a `departments` table, the `department_id` could be the primary key. If each employee belongs to a department, the `department_id` in the `employees` table would be a foreign key linking to the `department_id` in the `departments` table.
 
 This means that we can retrieve all the information about each employees department (location, department name, phone number, manager, etc.) without needing to rewrite that information for each employee in the department. This is an important feature of relational databases.
+
+### Data Types in SQL Databases
+
+SQL database supports a variety of data types, including:
+
+- `INTEGER`: A whole number
+- `DECIMAL`, `FLOAT` or `DOUBLE`: A decimal number. Different database systems use one or more of these names, sometimes with differing levels of precision.
+- `VARCHAR(n)`: A variable-length string with a maximum length of `n` (sometimes just called `TEXT`)
+- `DATE`: A date value
+- `TIME`: A time value
+- `BOOLEAN`: A true/false value
+
+Data types are especially important in SQL because they help ensure data integrity and accuracy. Databases will not allow data to be saved in a table unless the data type matches the column definition. This helps prevent errors and ensures that the data is consistent, but it also means that databases need to be carefully designed.
+
+Note that the implementation of date/time data types can vary between database systems. For example, some databases store date and time together in a single data type, while others store them separately.
+
+- In `SQLite`, you can use `TEXT` to store date and time values in the format `YYYY-MM-DD HH:MM:SS`. SQLite then provides functions to manipulate these values as dates and times.
+- In `DuckDB`, you can use `DATE` and `TIME` data types to store date and time values separately.
+- In `PostgreSQL`, you can use `TIMESTAMP` to store date and time values together.
+
+### Field Sizes
+
+As well as defining the data type of a column, you can also define the size of the column. This is particularly relevant in text fields, where you can specify the maximum number of characters that can be stored in the column. For example, a `VARCHAR(100)` column can store up to 100 characters. This ensures that data is stored efficiently and that the database is not storing more data than is necessary. It also helps to prevent errors where data is too long to be stored in a column.
 
 ## SQL
 
@@ -114,6 +138,30 @@ WHERE condition;
 
 This statement selects the specific columns (from the column list) from the table (specified by `table_name`) where the condition is true. The `WHERE` clause is optional, but it is used to filter the rows returned by the query.
 
+#### SQL `SELECT` Statement Examples
+
+- Select all columns from a `games` table:
+
+```sql
+SELECT * 
+FROM games;
+```
+
+- Select specific columns from a `games` table:
+
+```sql
+SELECT game_id, title, release_date
+FROM games;
+```
+
+- Select all columns from a `games` table where the `release_date` is after 2020:
+
+```sql
+SELECT *
+FROM games
+WHERE release_date > '2020-01-01';
+```
+
 ## SQL Joins
 
 **Joins** are used to combine rows from two or more tables based on a related column between them. There are different types of joins:
@@ -150,19 +198,6 @@ FROM employees
 INNER JOIN departments
 ON employees.department_id = departments.department_id;
 ```
-
-### Data Types in SQL
-
-SQL supports a variety of data types, including:
-
-- `INTEGER`: A whole number
-- `DECIMAL`: A fixed-point number
-- `VARCHAR(n)`: A variable-length string with a maximum length of `n` (sometimes just called `TEXT`)
-- `DATE`: A date value
-- `TIME`: A time value
-- `BOOLEAN`: A true/false value
-
-Data types are especially important in SQL because they help ensure data integrity and accuracy. Databases will not allow data to be saved in a table unless the data type matches the column definition. This helps prevent errors and ensures that the data is consistent, but it also means that databases need to be carefully designed.
 
 ### SQL Query Examples
 
@@ -256,21 +291,33 @@ What is the purpose of a foreign key in a relational database?
 
 ### Question 3
 
-What is the difference between an `INNER JOIN` and a `LEFT JOIN` in SQL?
+Describe the difference between an `INTEGER` data type and a `DECIMAL` or `FLOAT` data type in SQL. Give an example of when you might use each.
 
 ### Question 4
 
-Describe why data types are important in SQL databases.
+Hamsa is going to store the abbreviated state code (e.g., "VIC", "NSW", "WA") in a database table. She is considering using a `VARCHAR(3)` data type for this column. Is this a good choice? Why or why not?
 
 ### Question 5
 
-What SQL command would you use to update someone's email address in a `users` table?
+Write an SQL query to select the first name, last name, and age of all students from a `students` table where the age is greater than 15.
 
 ### Question 6
 
-Explain the difference between the `WHERE` and `HAVING` clauses in SQL.
+What is the difference between an `INNER JOIN` and a `LEFT JOIN` in SQL?
 
 ### Question 7
+
+Describe why data types are important in SQL databases.
+
+### Question 8
+
+What SQL command would you use to update someone's email address in a `users` table?
+
+### Question 9
+
+Explain the difference between the `WHERE` and `HAVING` clauses in SQL.
+
+### Question 10
 
 Describe the results of the following SQL query:
 
@@ -284,7 +331,7 @@ GROUP BY department_name;
 
 ```
 
-### Question 8
+### Question 11
 
 Write a proposed test table (without the "Actual Results") for the query used in Question 7. Include tests for departments with no employees, departments with multiple employees, and departments with only one employee.
 
