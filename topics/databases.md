@@ -307,7 +307,7 @@ What is the difference between an `INNER JOIN` and a `LEFT JOIN` in SQL?
 
 ### Question 7
 
-Describe why data types are important in SQL databases.
+Describe the purpose of the `GROUP BY` clause in SQL. Give an example of when you might use it.
 
 ### Question 8
 
@@ -318,6 +318,10 @@ What SQL command would you use to update someone's email address in a `users` ta
 Explain the difference between the `WHERE` and `HAVING` clauses in SQL.
 
 ### Question 10
+
+Michael has created a table called `games` with the following columns: `game_id`, `title`, `release_date`, and `genre`. He has set the data type of title, release_date and genre to `VARCHAR(400)`. After testing, he is confident that the database will function correctly. Why might Michael still want to reconsider the design of his database? Give two reasons.
+
+### Question 11
 
 Describe the results of the following SQL query:
 
@@ -331,8 +335,8 @@ GROUP BY department_name;
 
 ```
 
-### Question 11
+### Question 12
 
-Write a proposed test table (without the "Actual Results") for the query used in Question 7. Include tests for departments with no employees, departments with multiple employees, and departments with only one employee.
+Write a proposed test table (without the "Actual Results") for the query used in Question 11. Include tests for departments with no employees, departments with multiple employees, and departments with only one employee.
 
 ---
