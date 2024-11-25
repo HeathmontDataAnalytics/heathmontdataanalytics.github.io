@@ -279,6 +279,51 @@ WHERE age <= 17;
 
 The test table has helped Roger to identify that his query is not returning the correct results for the first test. He can now go back and modify his query to ensure it is returning the correct results.
 
+## Validating Data
+
+Validation is a core part of any computing system. We validate data to ensure that it is reasonable and appropriate for the work at hand. Validation does not verify that 
+
+Across Applied Computing we have three common types of validation that we perform:
+
+- Existence Checks: Checking whether or not something exists
+- Type Checks: Checking whether or not something is the correct data type
+- Range Checks: Checking whether or not something is within a certain range
+
+Each of these forms of validation look a little different in a database. 
+
+### Existence Checks
+
+To perform an existence check in the database, we are usually checking that data is present. In SQL this is done by using an `IS NOT NULL` or `IS NULL` statement. For example, to check that a student has a first name, you might use the following query:
+
+```sql
+SELECT * 
+FROM students 
+WHERE first_name IS  NULL;
+```
+
+Any rows returned would indicate student records in our database without a first name, which indicates a likely error.
+
+Existence checks can also be performed by the primary key to foreign key relationships. For example, if we have a `students` table and a `classes` table, the foreign key constraint will make sure we only add students to classes that exist in our `classes` table.
+
+### Type Checks
+
+Type checks are a little more complex in SQL. SQL databases are designed to store data in a specific format, and so the database will prevent you from storing data in the wrong format. One instance where you may be required to perform type checking would be in the case of an automatically import process. In that scenario we would:
+
+- Check that the import data is already in appropriate formats
+- Verify that the created columns match our expected data types
+
+### Range Checks
+
+Range checks are relatively simple in an SQL database, as performing queries that filter based on a condition is a core part of SQL. For example, to check that all students are between the ages of 4 and 18, you might use the following query:
+
+```sql
+SELECT *
+FROM students
+WHERE age < 4 OR age > 18;
+```
+
+This would return any student records with an age outside of the expected range.
+
 ## Topic Questions
 
 ### Question 1
@@ -315,13 +360,17 @@ What SQL command would you use to update someone's email address in a `users` ta
 
 ### Question 9
 
-Explain the difference between the `WHERE` and `HAVING` clauses in SQL.
+Delia is importing a large CSV file into a database table from a repository of weather data. The CSV has the following columns: `date`, `temperature`, `humidity`, and `wind_speed`. She wants to ensure that the data is stored correctly in the database. Describe how she could use each of the validation types on this data.
 
 ### Question 10
 
-Michael has created a table called `games` with the following columns: `game_id`, `title`, `release_date`, and `genre`. He has set the data type of title, release_date and genre to `VARCHAR(400)`. After testing, he is confident that the database will function correctly. Why might Michael still want to reconsider the design of his database? Give two reasons.
+Explain the difference between the `WHERE` and `HAVING` clauses in SQL.
 
 ### Question 11
+
+Michael has created a table called `games` with the following columns: `game_id`, `title`, `release_date`, and `genre`. He has set the data type of title, release_date and genre to `VARCHAR(400)`. After testing, he is confident that the database will function correctly. Why might Michael still want to reconsider the design of his database? Give two reasons.
+
+### Question 12
 
 Describe the results of the following SQL query:
 
@@ -335,8 +384,8 @@ GROUP BY department_name;
 
 ```
 
-### Question 12
+### Question 13
 
-Write a proposed test table (without the "Actual Results") for the query used in Question 11. Include tests for departments with no employees, departments with multiple employees, and departments with only one employee.
+Write a proposed test table (without the "Actual Results") for the query used in Question 12. Include tests for departments with no employees, departments with multiple employees, and departments with only one employee.
 
 ---
