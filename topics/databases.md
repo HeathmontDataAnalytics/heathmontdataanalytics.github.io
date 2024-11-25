@@ -281,7 +281,7 @@ The test table has helped Roger to identify that his query is not returning the 
 
 ## Validating Data
 
-Validation is a core part of any computing system. We validate data to ensure that it is reasonable and appropriate for the work at hand. Validation does not verify that 
+Validation is a core part of any computing system. We validate data to ensure that it is reasonable and appropriate for the work at hand. **Validation does not verify that the data is correct, but rather that it is reasonable.**
 
 Across Applied Computing we have three common types of validation that we perform:
 
