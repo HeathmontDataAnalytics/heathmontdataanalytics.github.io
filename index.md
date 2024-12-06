@@ -6,7 +6,7 @@
 
 Welcome to the Data Analytics course resource hub! This site provides valueable resources and key learning materials for VCE Data Analytics Unit 3 & 4. It will get updated throughout our time together to ensure it has as many of the resources we need as possible.
 
-Explore the **Course Planner** below, dive into the **Topic Pages** for detailed information, and check out the **Assessment Pages** for SAC, SAT and Exam details. You can also visit the [Glossary](glossary.md) for key terms and definitions (which will be added as we come across them in the year).
+Explore the **Course Planner** below, dive into the **Topic Pages** for detailed information, and check out the **Assessment Pages** for SAC, SAT and Exam details. You can also visit the **[Glossary](glossary.md)** for key terms and definitions (which will be added as we come across them in the year).
 
 ### Topics
 
