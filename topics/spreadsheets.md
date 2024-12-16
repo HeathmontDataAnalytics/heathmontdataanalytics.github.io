@@ -103,7 +103,7 @@ These queries can be used to filter data in a spreadsheet or database to extract
 
 ### Layout Diagrams
 
-Layout diagrams show the structure of a spreadsheet, or possibly the user interface to a database application. Layout diagrams help visualize the data model and understand how different elements are connected.
+Layout diagrams are used in Data Analytics to show the structure of a spreadsheet, or possibly the user interface to a database application. Layout diagrams help visualize the data model and understand how different elements are connected. They can include information about the layout of data fields, tables, and relationships between them.
 
 ### Input-Process-Output (IPO) Charts
 
@@ -115,17 +115,21 @@ IPO charts describe the inputs, processes, and outputs of a system. In the conte
 
 IPO charts help in understanding the flow of data and operations in a system, and they are useful for designing and documenting the functional design of the spreadsheet or database.
 
-## Example Exercises
+#### Example IPO Chart
 
-### Example 1: Using Functions
+| Input | Process | Output |
+|------------|-----------|-------------|
+| Recorded Temperatures from Bureau of Meteorology | Calculate Average, Maximum and Minimum temperatures across each month | Summary Table for each month  |
+| | | Line graph showing temperature trends |
 
-- Calculate the average score of students in a class.
+This IPO chart describes the process of analyzing temperature data to create a summary table and a line graph.
 
-```excel
-=AVERAGE(B2:B20)
-```
+## Data Cleansing
 
-### Example 2: Data Validation
+Data cleansing is the process of identifying and correcting errors in a dataset. It involves removing or correcting inaccurate, incomplete, or irrelevant data to improve the quality and reliability of the data. It may include solving problems caused by an incorrect data type or Data cleansing is essential for accurate analysis and decision-making.
 
-- Set up a drop-down list for a column to ensure consistent data entry.
-- Use conditional formatting to highlight any outliers
+## Techniques for Manipulating and Cleansing Data
+
+### Formulas and Functions
+
+Formulas and functions are essential tools for manipulating data in spreadsheets. They allow you to perform calculations, apply logical operations, and transform data. Common functions include SUM, AVERAGE, IF, VLOOKUP, and CONCATENATE.
