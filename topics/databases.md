@@ -289,7 +289,7 @@ Across Applied Computing we have three common types of validation that we perfor
 - Type Checks: Checking whether or not something is the correct data type
 - Range Checks: Checking whether or not something is within a certain range
 
-Each of these forms of validation look a little different in a database. 
+Each of these forms of validation look a little different in a database.
 
 ### Existence Checks
 
