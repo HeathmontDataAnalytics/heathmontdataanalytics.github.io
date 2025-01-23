@@ -23,7 +23,7 @@ Spreadsheets are powerful tools for data analysis and management. This section f
   - identifying and fixing errors
 - techniques to statistically analyse data to identify trends, relationships and patterns, including:
   - descriptive statistics (average, median, minimum, maximum, range, standard deviation, count/frequency, sum)
-  - Pearson’s correlation co-efficient (r)
+  - Pearson's correlation co-efficient (r)
   - the shape and skew of data
 - techniques for testing databases and spreadsheets, including:
   - testing formula and query results
@@ -42,7 +42,7 @@ Spreadsheets are powerful tools for data analysis and management. This section f
   - software functions
 - techniques for analysing data to refine findings for data visualisations, including:
   - descriptive statistics (average, median, minimum, maximum, range, standard deviation, count/frequency, sum)
-  - Pearson’s correlation co-efficient (r)
+  - Pearson's correlation co-efficient (r)
   - the shape and skew of data
 
 **Key Skills:**
