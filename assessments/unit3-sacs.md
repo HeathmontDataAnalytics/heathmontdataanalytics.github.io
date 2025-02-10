@@ -68,6 +68,9 @@ We will be using data from [Gapminder](https://www.gapminder.org/data/) to answe
       - Year
       - Participation in Education
    - Population
+      - Country
+      - Year
+      - Population
 
 2. Store your extracted data in a database. You will need to create multiple tables to store the data. Take into account the full requirements of the task to make sure you will be able to answer all the questions posed as part of the practice SAC.
 
