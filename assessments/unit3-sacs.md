@@ -11,6 +11,20 @@ For the Unit 3 SAC, you are provided with a set of solution requirements and des
 - Statistically analyse the data in spreadsheets
 - Create data visualisations (in accordance with the requirements) to present your findings
 
+## Criteria
+
+The SAC will be assessed on the following criteria (provided from VCAA):
+
+- Interpret solution requirements and designs
+- identify, select, extract and validate relevant data from a large repository
+- use the APA referencing system to acknowledge intellectual property
+- manipulate and cleanse data using spreadsheet software
+- conduct statistical analysis to identify trends, relationships and patterns
+- select, justify and apply functions, formats and conventions to create effective data visualisations
+- develop and apply suitable testing techniques to software tools used
+
+The full marking Performance Descriptors will be supplied in class.
+
 ### Part 1 - Database Solution
 
 - **Duration:** 2 lessons (1 x double lesson)
@@ -18,6 +32,8 @@ For the Unit 3 SAC, you are provided with a set of solution requirements and des
   - Extract a set of data from a "large repository"
   - Store your extracted data in a database
   - Write a set of queries using SQL to meet given requirements and design
+  - Export the results of your queries to a CSV or XLSX file
+  - Reference the dataset you have used in your database solution
 
 ### Task 2 - Spreadsheet Solution
 
