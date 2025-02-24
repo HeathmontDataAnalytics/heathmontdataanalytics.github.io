@@ -224,3 +224,37 @@ Count and sum are measures of size. Count provides the number of values in a dat
 - The total of all values in a data set.
 - Can be calculated using the `SUM` function in Excel eg. `=SUM(A1:A10)`
 - Can be used to identify the total of a data set.
+
+## Pearson's Correlation Coefficient (r)
+
+Pearson's correlation coefficient (r) is a measure of the strength and direction of the linear relationship between **two numeric variables**. It ranges from -1 to 1, where:
+
+- 1 indicates a perfect positive linear relationship
+- -1 indicates a perfect negative linear relationship
+- 0 (or between -0.25 and 0.25) indicate no linear relationship
+- Values close to 1 or -1 indicate a strong linear relationship
+
+Pearson's correlation coefficient is calculated using the `CORREL` function in Excel. For example, `=CORREL(A1:A10, B1:B10)` calculates the correlation between two sets of values in columns A and B.
+
+## Strength and Direction of Relationships
+
+### Strength
+
+- The strength of a relationship between two variables is determined by the value of r.
+- Values close to 1 or -1 indicate a strong linear relationship.
+- Strength can be described as:
+  - Strong: r > 0.75 or r < -0.75
+  - Moderate: 0.5 < r < 0.75 or -0.75 < r < -0.5
+  - Weak: 0.25 < r < 0.5 or -0.25 > r > -0.5
+  - No relationship: -0.25 < r < 0.25
+- The strength of a relationship can be affected by outliers.
+
+### Direction
+
+- The direction of a relationship is determined by the sign of r.
+- A positive value of r indicates a positive linear relationship.
+- A negative value of r indicates a negative linear relationship.
+
+
+
+
