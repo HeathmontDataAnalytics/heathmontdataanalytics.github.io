@@ -254,7 +254,3 @@ Pearson's correlation coefficient is calculated using the `CORREL` function in E
 - The direction of a relationship is determined by the sign of r.
 - A positive value of r indicates a positive linear relationship.
 - A negative value of r indicates a negative linear relationship.
-
-
-
-
