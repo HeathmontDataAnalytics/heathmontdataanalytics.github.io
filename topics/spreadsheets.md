@@ -54,7 +54,7 @@ Spreadsheets are powerful tools for data analysis and management. This section f
 
 ## Learning Resources
 
-- [Excel Basics for Data Analysis](https://www.microsoft.com/en-us/training)
+- [Excel Basics for Data Analysis](https://support.microsoft.com/en-au/office/basic-tasks-in-excel-dc775dd1-fa52-430f-9c3c-d998d1735fca)
 - [Google Sheets Functions Guide](https://support.google.com/docs/answer/3093275)
 
 ## Design Tools for Spreadsheets (and Databases)

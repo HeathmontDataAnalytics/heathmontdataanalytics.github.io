@@ -13,6 +13,8 @@ Explore the **Course Planner** below, dive into the **Topic Pages** for detailed
 - [Databases and SQL](topics/databases.md)
 - [Spreadsheets and Data Cleansing](topics/spreadsheets.md)
 - [Data Visualisation Techniques](topics/visualisations.md)
+- [Research Questions and Data Analysis](topics/research-questions.md)
+- [Data Collection Methods](topics/data-collection.md)
 - [Project Management Strategies](topics/project-management.md)
 - [Legal and Ethical Considerations](topics/legal-ethical.md)
 - [Cybersecurity](topics/security.md)
@@ -36,14 +38,14 @@ Explore the **Course Planner** below, dive into the **Topic Pages** for detailed
 | Step Up  | [Databases](topics/databases.md)                         | Introduction to Data Analytics & SAT Overview             | Introduction to databases, SQL basics (SELECT, FROM, WHERE)       |                                                   |
 | 1        | [Databases](topics/databases.md), [Machine Learning and AI](topics/machine-learning.md)| Data types and accessing large repositories. Emerging trends in Data Analytics using artificial intelligence. Meaningful names for database elements.  | Practice querying with SQL and gathering data from databases      |                                                      |
 | 2        | [Databases](topics/databases.md), [Legal and Ethical](topics/legal-ethical.md) | Data integrity, accuracy, and quality. Data dictionaries. Primary key to foreign key relationships                     | Further SQL querying (JOINs, aggregations), focus on data integrity. Intro to APA Referencing |                          |
-| 3        | [Databases](topics/databases.md)                         | Database relationships and management                     | Creating relational databases from large repository, using primary/foreign keys. Exporting to `.csv` or `.xlsx`      |  **Practice SAC Task** (Database)  |
+| 3        | [Databases](topics/databases.md)                         | Database relationships and management                     | Creating relational databases from large repository, using primary/foreign keys. Exporting to `.csv` or `.xlsx`      |  **Practice SAC Task** (Database). Extract and reference data from a large repository. Query data using SQL. |
 | 4        | [Spreadsheets](topics/spreadsheets.md)                  | Spreadsheet design tools. Data cleansing and data manipulation |  Spreadsheet skills: formulas, lookups, pivot tables     |   |
-| 5        | [Spreadsheets](topics/spreadsheets.md)                  | Descriptive statistics overview                           | Perform statistical analysis with spreadsheets                    |                                                      |
-| 6        | [Spreadsheets](topics/spreadsheets.md)                  | Data cleansing techniques in spreadsheets                 | Data cleansing and validation in spreadsheets                     | **Practice SAC Task** (Spreadsheet)    |
-| 7        | [Visualisations](topics/visualisations.md)              | Visualisation principles                                  | Introduction to data visualisation, basic tools for visualisation |  **Practice SAC Task** (Visualisations)  |
-| 8        | [Visualisations](topics/visualisations.md)              | Visual storytelling and infographics  | Create data visualisations and infographics using data sets                            | **SAC Starts**  (2 lessons)  |
-| 9        | SAC     | SAC                             | Finish SAC                | **SAC Finishes**    |
-| 10       |              | Techniques for refining data visualisations               | Refine visualisations and prepare SAT designs                     | Start **Outcome 2 SAT** (Data Analysis & Design)     |
+| 5        | [Spreadsheets](topics/spreadsheets.md)                  | Descriptive statistics overview: descriptive, correlaton, shape, skew | Perform statistical analysis with spreadsheets                    |     **Practice SAC Task** (Spreadsheets)  Use Spreadsheet functions to manipulate data. Statistically analyse data in spreadsheets. |
+| 6        | [Visualisations](topics/visualisations.md)              | Visualisation principles                                  | Introduction to data visualisation, basic tools for visualisation |    |
+| 7        | [Visualisations](topics/visualisations.md)              | Visual storytelling and infographics  | Create data visualisations and infographics using data sets                            | **Practice SAC Task** (Visualisations) Develop data visualisations to match solution requirements and designs  |
+| 8       | SAC     | SAC                         |        | **SAC Starts**  |
+| 9        | SAC, [Research Questions](topics/research-questions.md)     | SAC                             | Finish SAC. Investigate research questions for SAT  | **SAC Finishes**    |
+| 10       | [Research Questions](topics/research-questions.md), [Visualisations](topics/visualisations.md)  | Selecting and refining our research question. Identifying relevant data sources.  | Refine visualisations and prepare SAT designs                     | Start **Outcome 2 SAT** (Data Analysis & Design)     |
 
 #### Term 2 - 11 weeks (Unit 3 Week 11 - Unit 4 Week 2)
 
