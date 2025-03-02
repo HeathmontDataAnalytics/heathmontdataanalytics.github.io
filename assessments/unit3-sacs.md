@@ -35,14 +35,14 @@ The full marking Performance Descriptors will be supplied in class.
   - Export the results of your queries to a CSV or XLSX file
   - Reference the dataset you have used in your database solution
 
-### Task 2 - Spreadsheet Solution
+### Part 2 - Spreadsheet Solution
 
 - **Duration:** 2 lessons (1 x double lesson)
 - **Task Requirements:**
   - Manipulate and cleanse extracted data using spreadsheets
   - Statistically analyse the data in spreadsheets
 
-### Task 3 - Visualisation Solution
+### Part 3 - Visualisation Solution
 
 - **Duration:** 2 lessons (1 x double lesson)
 - **Task Requirements:**
@@ -68,7 +68,7 @@ We will be using data from [Gapminder](https://www.gapminder.org/data/) to answe
 
 - **Duration:** 2 lessons
 
-#### Task Requirements
+#### Database Task Requirements
 
 1. Extract data from the Gapminder dataset to give you the following information:
    - Average Income
@@ -91,12 +91,33 @@ We will be using data from [Gapminder](https://www.gapminder.org/data/) to answe
 2. Store your extracted data in a database. You will need to create multiple tables to store the data. Take into account the full requirements of the task to make sure you will be able to answer all the questions posed as part of the practice SAC.
 
 3. Build a set of queries that meet the following query designs. Record the SQL query you have written, as well as a sample of the first few rows for each query. Query designs:
-    - Select all income data for a specific country
-    - Select all participation in education data for a specific country from 1980 to most recent year
-    - Select all GDP per Capita data for a specific country from 1980 to most recent year
-    - A query that compares GDP per Capita and participation in education for the most recent year across all countries
-    - A query that compares population to participation in education for the most recent year across all countries, showing NULL for any countries without data for participation in education, ordered by population descending.
-    - A query that compares average income and participation in education for the most recent year across all countries, including showing NULL for any countries that do not have data for both measures
+    1. Select all income data for a specific country
+    2. Select all participation in education data for a specific country from 1980 to most recent year
+    3. Select all GDP per Capita data for a specific country from 1980 to most recent year
+    4. A query that compares GDP per Capita and participation in education for the most recent year across all countries
+    5. A query that compares population to participation in education for the most recent year across all countries, showing NULL for any countries without data for participation in education, ordered by population descending.
+    6. A query that compares average income and participation in education for the most recent year across all countries, including showing NULL for any countries that do not have data for both measures
 
 4. Reference the Dataset you have used in your database solution.
     - Write a reference for the dataset you have used following the APA Format. You can use online referencing tools to help.
+
+### Task 2 - Spreadsheet Solution
+
+- **Duration:** 2 lessons
+
+### Spreadsheet Task Requirements
+
+1. Export the results of queries 3 & 4 from Part 1 to XLSX (Microsoft Excel) files. Save each query result in a separate, logically named file.
+(If you have been unable to complete the SQL queries, Mr Matheson will provide them for you)
+
+2. Use the supplied design tools to guide your modifications to the data. This will include:
+   - Any relevant data cleansing and data validation
+   - Sorting and filtering
+   - Calculations to create new columns
+
+3. Perform statistical analysis on both datasets, recording your results in accordance with the design tools. This will include:
+   - Descriptive statistics: average, median, mode, range, standard deviation, with an interpretation of results
+   - Correlation analysis: Pearson's correlation coefficient, with an interpretation of results
+   - Analysis of shape and skew for each numerical variable, with evidence of shape
+
+4. (Completing as you go) Write a test table with appropriate test cases for each function and validation element in your spreadsheet.
