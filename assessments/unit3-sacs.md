@@ -140,3 +140,5 @@ We will be using data from [Gapminder](https://www.gapminder.org/data/) to answe
    - Each of the charts
    - Each of the statistics
    - Interactive elements
+
+Submit your streamlit file (app.py) and your test table and justification to the learning task on Compass.
