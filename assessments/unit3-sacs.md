@@ -121,3 +121,16 @@ We will be using data from [Gapminder](https://www.gapminder.org/data/) to answe
    - Analysis of shape and skew for each numerical variable, with evidence of shape
 
 4. (Completing as you go) Write a test table with appropriate test cases for each function and validation element in your spreadsheet.
+
+### Task 3 - Visualisation Solution
+
+- **Duration:** 2 lessons
+- **Task Requirements:**
+
+  1. Create a data dashboard in line with this [layout diagram provided]("/assets/files/layout_diagram_visualisation.pdf") using Streamlit and the following files:
+   - (gdp_pop_primary.csv) - GDP per Capita, Population, and Primary Education Participation from the spreadsheet solution
+   - (gdp_pop_summary.csv) - GDP per Capita and Population Summary Statistics from the spreadsheet solution
+   - (primary_country_time.csv) - Primary Education Participation by Country and Year from the spreadsheet solution)
+
+  2. 
+
