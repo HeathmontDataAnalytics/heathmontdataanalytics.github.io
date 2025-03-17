@@ -21,13 +21,13 @@ The School Assessed Task (SAT) is a key assessment for VCE Data Analytics studen
 - **Development of a database solution to gather data from a large repository and store and manipulate data:** 
   - Due Week 2 (Term 3 Week 1)
 - **Development of a spreadsheet solution to validate data and apply statistical analysis:**
-    - Due Week 4 (Term 3 Week 3)
+  - Due Week 4 (Term 3 Week 3)
 - **Development of a data visualisation solution to present findings:**
-    - Due Week 7 (Term 3 Week 6)
+  - Due Week 7 (Term 3 Week 6)
 - **A testing table and report on managing the security of data and files:**
-    - Due Week 7 (Term 3 Week 6)
+  - Due Week 7 (Term 3 Week 6)
 - **An evaluation of the effectiveness of the solution and assessment of the project plan:**
-    - Due Week 8 (Term 3 Week 7)
+  - Due Week 8 (Term 3 Week 7)
 
 ## Resources
 
