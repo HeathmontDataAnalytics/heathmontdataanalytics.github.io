@@ -164,7 +164,6 @@ Each of these measures is applied to numerical data to provide a summary of the 
   - Which may not be representative of the data set
 - Can be calculated using the `AVERAGE` function in Excel eg. `=AVERAGE(A1:A10)`
 
-
 ### Median
 
 - The middle value of a data set.
@@ -181,7 +180,6 @@ Each of these measures is applied to numerical data to provide a summary of the 
 - Can be calculated using the `MIN` function in Excel eg. `=MIN(A1:A10)`
 - Can be used to identify the range of values in a data set.
 
-
 ### Maximum
 
 - The largest value in a data set.
@@ -191,7 +189,6 @@ Each of these measures is applied to numerical data to provide a summary of the 
 ## Range and Standard Deviation
 
 Measures of spread (such as range and standard deviation) provide information about the variability of the data set. Two data sets could have very similar averages but very different ranges or standard deviations, indicating that one data set is more spread out than the other.
-
 
 ### Range
 
