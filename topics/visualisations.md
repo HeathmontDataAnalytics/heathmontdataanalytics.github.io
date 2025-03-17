@@ -95,6 +95,46 @@ Storyboards are visual representations of a sequence of events or actions. They 
 
 Storyboards help designers and developers visualize the user experience and identify potential issues before creating the final product. They can be used to plan everything from infographics to interactive dashboards, ensuring that the final design effectively communicates the intended message. They could even be used to identify the visual hierarchy of the visualisation, such as which elements are most important and how they should be arranged.
 
+## Formats and Conventions Applied to Data Visualisations
+
+### Use of Colours, Fonts, Images, and Icons
+
+The use of colours, fonts, images, and icons in data visualisations is crucial for conveying information effectively. These elements can help create a visual hierarchy, guide the viewer's attention, and enhance the overall aesthetic of the visualisation.
+
+- **Colours**: The choice of colours can evoke emotions, highlight important information, and create a sense of harmony. Using a consistent colour palette helps maintain visual coherence and makes the visualisation easier to understand.
+  - Colour conventions in visualisations can include:
+    - Red for negative values or warnings
+    - Green for positive values or success
+    - Blue for neutral or informational content
+- **Fonts**: The choice of fonts can impact readability and the overall tone of the visualisation. Using clear, legible fonts ensures that the information is easily accessible to the audience. Font choice can also convey a sense of professionalism or playfulness, depending on the context.
+- **Images and Icons**: Images and icons can help illustrate concepts, provide context, and enhance the visual appeal of the data visualisation. Using relevant and high-quality images can make the visualisation more engaging and memorable.
+
+### Visual Hierarchy, Use of Conventions and Clarity of Message
+
+- **Visual Hierarchy**: Establishing a clear visual hierarchy helps guide the viewer's attention to the most important information. This can be achieved through the use of size, colour, and placement of elements within the visualisation.
+  - For example, larger fonts or bolder colours can be used to highlight key data points, while smaller fonts or muted colours can be used for less important information.
+  - The layout of the visualisation should also follow a logical flow, making it easy for the viewer to navigate and understand the information presented. Unless otherwise disrupted, a viewers eye will naturally move from the top left to the bottom right of a visualisation. This means that the most important information should be placed in the top left corner, with supporting information following in a logical order.
+- **Conventions**: Following established conventions in data visualisation can help ensure that the information is presented in a way that is familiar and easy to understand for the audience. This can include using standard chart types, colour schemes, and layout patterns that are commonly used in the industry.
+  - Whenever a convention is being broken, it needs to be for a compelling reason. Breaking conventions can lead to confusion and misinterpretation of the data, but when conventions are broken purposefully, it can create a more engaging and memorable experience for the viewer.
+
+## Techniques for Testing Data Visualisations
+
+### Visual Inspection of the Appearance of the Data Visualisation
+
+Testing data visualisations through visual inspection involves reviewing the visualisation for clarity, accuracy, and overall effectiveness. This can include checking for:
+
+- Proper alignment and spacing of elements
+- Consistent use of colours, fonts, and icons
+- Clear labels and legends
+
+### Confirming that Charts and Graphs are Representative of the Data Being Visualised
+
+It is essential to ensure that the charts and graphs accurately represent the data being visualised. This can include checking for:
+
+- Correct scaling and axis labels
+- Accuracy of data points plotted (especially when grouped)
+- Checking summary statistics and calculations for accuracy
+
 ## Learning Resources
 
 - [Data Visualization Best Practices](https://www.tableau.com/learn/articles/data-visualization)
