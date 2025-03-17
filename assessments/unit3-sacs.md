@@ -127,10 +127,16 @@ We will be using data from [Gapminder](https://www.gapminder.org/data/) to answe
 - **Duration:** 2 lessons
 - **Task Requirements:**
 
-  1. Create a data dashboard in line with this [layout diagram provided]("/assets/files/layout_diagram_visualisation.pdf") using Streamlit and the following files:
-   - (gdp_pop_primary.csv) - GDP per Capita, Population, and Primary Education Participation from the spreadsheet solution
-   - (gdp_pop_summary.csv) - GDP per Capita and Population Summary Statistics from the spreadsheet solution
-   - (primary_country_time.csv) - Primary Education Participation by Country and Year from the spreadsheet solution)
+1. Create a data dashboard in line with this [layout diagram provided]("/assets/files/layout_diagram_visualisation.pdf") using Streamlit and the following files:
+   - (assets/files/gdp_pop_primary.csv) - GDP per Capita, Population, and Primary Education Participation from the spreadsheet solution
+   - (assets/files/gdp_pop_summary.csv) - GDP per Capita and Population Summary Statistics from the spreadsheet solution
+   - (assets/files/primary_country_time.csv) - Primary Education Participation by Country and Year from the spreadsheet solution
 
-  2. 
+2. Write a justification for the choices you made in creating this visualisation.
+   - What makes this an effective data visualisation?
+   - How do your choice of colours, charts, and statistics help to communicate meaningful information?
 
+3. Write a test table with appropriate test cases for each function and validation element in your visualisation. Include test cases for:
+   - Each of the charts
+   - Each of the statistics
+   - Interactive elements
