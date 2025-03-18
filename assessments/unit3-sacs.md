@@ -128,9 +128,9 @@ We will be using data from [Gapminder](https://www.gapminder.org/data/) to answe
 - **Task Requirements:**
 
 1. Create a data dashboard in line with this [layout diagram provided](/assets/files/layout_diagram_visualisation.pdf) using Streamlit and the following files:
-   - [gdp_pop_primary.csv](assets/files/gdp_pop_primary.csv) - GDP per Capita, Population, and Primary Education Participation from the spreadsheet solution
-   - [gdp_pop_summary.csv](assets/files/gdp_pop_summary.csv) - GDP per Capita and Population Summary Statistics from the spreadsheet solution
-   - [primary_country_time.csv](assets/files/primary_country_time.csv) - Primary Education Participation by Country and Year from the database solution
+   - [gdp_pop_primary.csv](/assets/files/gdp_pop_primary.csv) - GDP per Capita, Population, and Primary Education Participation from the spreadsheet solution
+   - [gdp_pop_summary.csv](/assets/files/gdp_pop_summary.csv) - GDP per Capita and Population Summary Statistics from the spreadsheet solution
+   - [primary_country_time.csv](/assets/files/primary_country_time.csv) - Primary Education Participation by Country and Year from the database solution
 
 2. Write a justification for the choices you made in creating this visualisation.
    - What makes this an effective data visualisation?
