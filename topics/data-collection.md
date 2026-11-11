@@ -2,7 +2,7 @@
 
 ## Overview
 
-Data collection is the process of gathering and measuring information on targeted variables in an established system, which then enables one to answer relevant questions and evaluate outcomes. Data collection is a fundamental aspect of research, and it is important to understand the methods used to collect data. This article will discuss the various methods of data collection, including primary and secondary data collection methods.
+Data collection is the process of gathering and measuring information on targeted variables in an established system, which then enables one to answer relevant questions and evaluate outcomes. Data collection is a fundamental aspect of research, and it is important to understand the methods used to collect data. This section covers the main methods of data collection, including primary and secondary data collection methods.
 
 ## Primary and Secondary Data
 
@@ -18,6 +18,8 @@ Primary data collection methods are those methods that are used to collect data 
 
 3. **Observations**: Observations are a method of primary data collection that involves watching and recording behavior.
 
+When collecting primary data from people, you must do so ethically and legally. See the [Legal and Ethical Considerations](/topics/legal-ethical.md) page for more information.
+
 ### Secondary Data
 
 Secondary data is not necessarily any less valuable than primary data. In fact, secondary data often allows a researcher to make use of data that would be impossible to collect otherwise. The most common sources of secondary data are:
@@ -28,3 +30,9 @@ Secondary data is not necessarily any less valuable than primary data. In fact, 
 
 3. **Academic Journals**: Academic journals are another valuable source of secondary data. Many academic journals publish data sets along with their articles, and these data sets are often freely available to the public.
 
+### Examples of Secondary Data Sources
+
+- [Australian Bureau of Statistics (ABS)](https://www.abs.gov.au/)
+- [data.gov.au](https://data.gov.au/)
+- [Gapminder](https://www.gapminder.org/data/)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)

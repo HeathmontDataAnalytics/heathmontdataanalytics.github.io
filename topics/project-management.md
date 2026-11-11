@@ -48,7 +48,7 @@ Effective project management is essential for delivering successful data project
 
 **Key Skills:**
 
--	monitor, modify and annotate project plans as necessary
+- monitor, modify and annotate project plans as necessary
 - assess the effectiveness of the project plan
 
 *Study design key knowledge and key skills are taken verbatim from the VCE Applied Computing Study Design 2025-2028.*

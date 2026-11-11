@@ -4,7 +4,7 @@
 
 ![Data Analytics Robot](/assets/images/da_logo.png)
 
-Welcome to the Data Analytics course resource hub! This site provides valueable resources and key learning materials for VCE Data Analytics Unit 3 & 4. It will get updated throughout our time together to ensure it has as many of the resources we need as possible.
+Welcome to the Data Analytics course resource hub! This site provides valuable resources and key learning materials for VCE Data Analytics Unit 3 & 4. It will get updated throughout our time together to ensure it has as many of the resources we need as possible.
 
 Explore the **Course Planner** below, dive into the **Topic Pages** for detailed information, and check out the **Assessment Pages** for SAC, SAT and Exam details. You can also visit the **[Glossary](glossary.md)** for key terms and definitions (which will be added as we come across them in the year).
 
@@ -40,7 +40,7 @@ Explore the **Course Planner** below, dive into the **Topic Pages** for detailed
 | 2        | [Databases](topics/databases.md), [Legal and Ethical](topics/legal-ethical.md) | Data integrity, accuracy, and quality. Data dictionaries. Primary key to foreign key relationships                     | Further SQL querying (JOINs, aggregations), focus on data integrity. Intro to APA Referencing |                          |
 | 3        | [Databases](topics/databases.md)                         | Database relationships and management                     | Creating relational databases from large repository, using primary/foreign keys. Exporting to `.csv` or `.xlsx`      |  **Practice SAC Task** (Database). Extract and reference data from a large repository. Query data using SQL. |
 | 4        | [Spreadsheets](topics/spreadsheets.md)                  | Spreadsheet design tools. Data cleansing and data manipulation |  Spreadsheet skills: formulas, lookups, pivot tables     |   |
-| 5        | [Spreadsheets](topics/spreadsheets.md)                  | Descriptive statistics overview: descriptive, correlaton, shape, skew | Perform statistical analysis with spreadsheets                    |     **Practice SAC Task** (Spreadsheets)  Use Spreadsheet functions to manipulate data. Statistically analyse data in spreadsheets. |
+| 5        | [Spreadsheets](topics/spreadsheets.md)                  | Descriptive statistics overview: descriptive, correlation, shape, skew | Perform statistical analysis with spreadsheets                    |     **Practice SAC Task** (Spreadsheets)  Use Spreadsheet functions to manipulate data. Statistically analyse data in spreadsheets. |
 | 6        | [Visualisations](topics/visualisations.md)              | Visualisation principles                                  | Introduction to data visualisation, basic tools for visualisation |    |
 | 7        | [Visualisations](topics/visualisations.md)              | Visual storytelling and infographics  | Create data visualisations and infographics using data sets                            | **Practice SAC Task** (Visualisations) Develop data visualisations to match solution requirements and designs  |
 | 8       | SAC     | SAC                         |        | **SAC Starts**  |
@@ -63,6 +63,8 @@ Explore the **Course Planner** below, dive into the **Topic Pages** for detailed
 ---
 
 ### Unit 4: Data Analytics
+
+#### Term 2 (continued) - Unit 4 Weeks 1-2
 
 | **Week** | **Focus**                                               | **Theory**                                               | **Practical**                                                    | **SAC/SAT Task**                                     |
 |----------|--------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------|

@@ -30,9 +30,10 @@ Spreadsheets are powerful tools for data analysis and management. This section f
   - testing validation
   - test cases comparing expected and actual results in testing tables
 
-  **Key Skills:**
-  - manipulate and cleanse data using spreadsheet software
-  - develop and apply suitable testing techniques to software tools used
+**Key Skills:**
+
+- manipulate and cleanse data using spreadsheet software
+- develop and apply suitable testing techniques to software tools used
 
 ### Unit 4 Outcome 1
 
@@ -50,7 +51,7 @@ Spreadsheets are powerful tools for data analysis and management. This section f
 - conduct statistical analysis to identify trends, relationships and patterns
 
 *Study design key knowledge and key skills are taken verbatim from the VCE Applied Computing Study Design 2025-2028.*
-**© Victorian Curriculum and Assessment Authority. For current versions and related content visit www.vcaa.vic.edu.au**
+**© Victorian Curriculum and Assessment Authority. For current versions and related content visit [www.vcaa.vic.edu.au](https://www.vcaa.vic.edu.au)**
 
 ## Learning Resources
 
@@ -126,7 +127,7 @@ This IPO chart describes the process of analyzing temperature data to create a s
 
 ## Data Cleansing
 
-Data cleansing is the process of identifying and correcting errors in a dataset. It involves removing or correcting inaccurate, incomplete, or irrelevant data to improve the quality and reliability of the data. It may include solving problems caused by an incorrect data type or Data cleansing is essential for accurate analysis and decision-making.
+Data cleansing is the process of identifying and correcting errors in a dataset. It involves removing or correcting inaccurate, incomplete, or irrelevant data to improve the quality and reliability of the data. It may include solving problems caused by an incorrect data type or inconsistent formatting. Data cleansing is essential for accurate analysis and decision-making.
 
 ## Techniques for Manipulating and Cleansing Data
 

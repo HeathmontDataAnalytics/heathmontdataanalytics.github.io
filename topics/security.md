@@ -14,7 +14,7 @@ Data security protects information from unauthorized access and breaches. This s
 
 ## Learning Resources
 
-- [Introduction to Encryption](https://www.khanacademy.org/)
+- [Introduction to Encryption (Khan Academy: Cryptography)](https://www.khanacademy.org/computing/computer-science/cryptography)
 - [Cybersecurity Basics](https://www.cisa.gov/cybersecurity)
 
 ## Example Exercises
