@@ -6,12 +6,13 @@ Unfinished pages and sections, roughly ordered from least to most complete.
 
 ### Research Questions (`topics/research-questions.md`)
 
-- [ ] Add an Overview section (and topic image, to match other topic pages)
-- [ ] Add "Research Questions in the Study Design" section (Unit 3 Outcome 2 key knowledge/skills)
-- [ ] Explain what makes a good research question (focused, answerable with available data, etc.)
-- [ ] Add worked examples of refining a broad question into a SAT-ready question
+- [x] Add an Overview section
+- [ ] Add a topic image to match other topic pages
+- [x] Add "Research Questions in the Study Design" section (Unit 3 Outcome 2 key knowledge/skills)
+- [x] Explain what makes a good research question (focused, answerable with available data, etc.)
+- [x] Add worked examples of refining a broad question into a SAT-ready question
 - [x] Add link to the SAT page and data sources (e.g. Gapminder, Maven Analytics)
-- [ ] Add topic questions / exercises
+- [x] Add topic questions / exercises
 
 ### Glossary (`glossary.md`)
 
@@ -56,10 +57,11 @@ Unfinished pages and sections, roughly ordered from least to most complete.
 
 ### Project Management (`topics/project-management.md`)
 
-- [ ] Expand Key Concepts into full explanations (tasks, sequencing, dependencies, milestones, critical path)
+- [x] Expand Key Concepts into full explanations (tasks, sequencing, dependencies, milestones, critical path)
 - [ ] Add content on recording progress (logs/journals, annotations) and assessing plan effectiveness (Unit 4 Outcome 1)
-- [ ] Expand the two one-line examples; add an explanation/caption for the Mermaid Gantt chart
-- [ ] Add more Learning Resources and topic questions
+- [x] Expand the two one-line examples; add an explanation/caption for the Mermaid Gantt chart
+- [x] Add more Learning Resources and topic questions
+- [ ] Check the Mermaid Gantt chart renders on the live site (no Mermaid script is loaded)
 - [x] Fix tab-indented bullet under Unit 4 Key Skills
 
 ### Spreadsheets and Data Cleansing (`topics/spreadsheets.md`)
