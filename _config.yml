@@ -29,3 +29,7 @@ navigation:
     url: /topics/security
   - title: Machine Learning
     url: /topics/machine-learning
+
+# Files kept in the repo but not published to the site
+exclude:
+  - todo.md
