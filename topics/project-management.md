@@ -159,35 +159,40 @@ List at least three potential risks for a data visualisation project and propose
 
 ### SAT Project Template
 
-```mermaid
-    gantt
-    title SAT Project Template
-    dateFormat DD/MM/YYYY
-    excludes weekends, Wednesday, Friday
+<pre class="mermaid">
+gantt
+title SAT Project Template
+dateFormat DD/MM/YYYY
+excludes weekends, Wednesday, Friday
 
-    section Unit 3 - Analysis
-    Project Start               : milestone, a1, 01/02/2025, 1d
-    Identify Research Question  : done, a2, after a1,  5d
-    Create project plan         : done, a3, after a2, 2d
-    Gather requirements         : active, a4, after a2, 5d 
-    Analysis Complete           : milestone, after a3 a4, 1d
+section Unit 3 - Analysis
+Project Start : milestone, a1, 01/02/2025, 0d
+Identify Research Question : done, a2, after a1, 5d
+Create project plan : done, a3, after a2, 2d
+Gather requirements : active, a4, after a2, 5d
+Analysis Complete : milestone, a5, after a3 a4, 0d
 
-    section Unit 3 - Design
-    System Design               : d1, 01/04/2025, 10d
-    Evaluation Criteria created : d2, after d1, 5d
-    Design Ideas                : d3, after d2, 4d
-    Design Complete             : milestone,  dm, after d3, 0d
+section Unit 3 - Design
+System Design : d1, 01/04/2025, 10d
+Evaluation Criteria created : d2, after d1, 5d
+Design Ideas : d3, after d2, 4d
+Design Complete : milestone, dm, after d3, 0d
 
-    section Unit 4 - Development
-    Start Unit 4                : milestone, devstart, 20/07/2025, 1d
-    Create Data Visualisation   : dev1, after devstart, 12d
-    Testing                     : dev2, after dev1, 3d
-    Finalised                   : milestone, devm, after dev2, 0d
+section Unit 4 - Development
+Start Unit 4 : milestone, devstart, 20/07/2025, 0d
+Create Data Visualisation : dev1, after devstart, 12d
+Testing : dev2, after dev1, 3d
+Finalised : milestone, devm, after dev2, 0d
 
-    section Unit 4 - Evaluation
-    Start Evaluation            : e1, after devm, 3d
-    Generate Eval Strategy      : e2, after e1, 3d
-```
+section Unit 4 - Evaluation
+Start Evaluation : e1, after devm, 3d
+Generate Eval Strategy : e2, after e1, 3d
+</pre>
+
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+  mermaid.initialize({ startOnLoad: true });
+</script>
 
 ## Topic Questions
 
