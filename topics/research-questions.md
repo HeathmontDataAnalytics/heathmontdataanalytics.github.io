@@ -2,6 +2,8 @@
 
 ## Overview
 
+<img src="/assets/images/research-questions.png" alt="Research Questions - data analysis question illustration" style="width:100px" class="img-fluid" />
+
 ![Research Questions - data analysis question illustration](/assets/images/research-questions.png)
 
 Every Data Analytics SAT starts with a research question. Your research question decides what data you need to collect, what analysis you perform, and what your infographic or dynamic data visualisation needs to show. A well-chosen question makes the rest of the SAT much easier; a poorly chosen one can leave you without enough data, or with nothing interesting to say.
