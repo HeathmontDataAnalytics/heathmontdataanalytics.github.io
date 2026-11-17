@@ -6,6 +6,21 @@
 
 Data visualisation helps convey complex information clearly. This section covers types of visualisations, best practices, and how to use tools like Matplotlib or Plotly to create visualisations from data, showcasing our results in Streamlit. You will learn about the purposes of data visualisations, design tools, and formats to improve their effectiveness for intended users.
 
+## Related Slideshows
+
+- [Shape of Data Distributions](https://mrmatho.github.io/da-slides/distribution-shapes)
+- [AI in Analytics](https://mrmatho.github.io/da-slides/ai-analytics)
+- [Visualisations using Streamlit, Python, Pandas and Plotly](https://mrmatho.github.io/da-slides/streamlit-visualisations)
+- [Data Visualisations Theory](https://mrmatho.github.io/da-slides/visualisation-theory)
+- [Research Questions](https://mrmatho.github.io/da-slides/research-questions)
+- [Analysis Documentation](https://mrmatho.github.io/da-slides/analysis-documentation)
+- [Generating Design Ideas](https://mrmatho.github.io/da-slides/design-ideas)
+- [Creating Evaluation Criteria](https://mrmatho.github.io/da-slides/evaluation-criteria)
+- [Design Principles](https://mrmatho.github.io/da-slides/design-principles)
+- [Unit 4 Introduction](https://mrmatho.github.io/da-slides/unit-four-intro)
+- [Streamlit Review](https://mrmatho.github.io/da-slides/streamlit-review)
+- [Evaluating Our Solutions](https://mrmatho.github.io/da-slides/solution-evaluation)
+
 ## Data Visualisations in the Study Design
 
 ### Unit 3 Outcome 1

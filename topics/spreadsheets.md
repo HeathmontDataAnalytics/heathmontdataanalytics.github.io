@@ -6,6 +6,17 @@
 
 Spreadsheets are powerful tools for data analysis and management. This section focuses on using spreadsheet functions for calculations, data analysis, and data cleansing. You will learn how to manipulate data using formulas and functions, sort and filter data, and identify and fix errors in data. Additionally, you will explore techniques for statistically analyzing data to identify trends, relationships, and patterns.
 
+## Related Slideshows
+
+- [Spreadsheets](https://mrmatho.github.io/da-slides/spreadsheet-basics)
+- [Descriptive Statistics in Spreadsheets](https://mrmatho.github.io/da-slides/spreadsheet-statistics)
+- [Correlation in Spreadsheets](https://mrmatho.github.io/da-slides/spreadsheet-correlation)
+- [Testing Spreadsheets and Databases](https://mrmatho.github.io/da-slides/spreadsheet-database-testing)
+- [Validating Database and Spreadsheets](https://mrmatho.github.io/da-slides/data-validation)
+- [Shape of Data Distributions](https://mrmatho.github.io/da-slides/distribution-shapes)
+- [Characteristics of Data Integrity](https://mrmatho.github.io/da-slides/data-integrity)
+- [SAT - Spreadsheet Criterion 7](https://mrmatho.github.io/da-slides/sat-spreadsheet-work)
+
 ## Spreadsheets and Data Cleansing in the Study Design
 
 ### Unit 3 Outcome 1

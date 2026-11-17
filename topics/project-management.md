@@ -6,6 +6,17 @@
 
 Effective project management is essential for delivering successful data projects. This section covers planning techniques, Gantt charts, and tracking progress. Lots of our focus for the project management is on tracking the progress of our SAT project and associated tasks.
 
+## Related Slideshows
+
+- [Research Questions](https://mrmatho.github.io/da-slides/research-questions)
+- [Project Management and Collecting Primary Data](https://mrmatho.github.io/da-slides/primary-data-planning)
+- [Analysis Documentation](https://mrmatho.github.io/da-slides/analysis-documentation)
+- [Generating Design Ideas](https://mrmatho.github.io/da-slides/design-ideas)
+- [Creating Evaluation Criteria](https://mrmatho.github.io/da-slides/evaluation-criteria)
+- [Design Principles](https://mrmatho.github.io/da-slides/design-principles)
+- [Unit 4 Introduction](https://mrmatho.github.io/da-slides/unit-four-intro)
+- [Evaluating Our Solutions](https://mrmatho.github.io/da-slides/solution-evaluation)
+
 ## Key Concepts
 
 - **Gantt Charts**: A chart showing each task as a bar against a timeline, so you can see when tasks start and finish and how they relate to each other.

@@ -9,6 +9,13 @@ Every Data Analytics SAT starts with a research question. Your research question
 
 This section covers what the study design expects from a research question, the features of a good research question, and how to refine a broad topic into a question that is ready for the SAT.
 
+## Related Slideshows
+
+- [Research Questions](https://mrmatho.github.io/da-slides/research-questions)
+- [Project Management and Collecting Primary Data](https://mrmatho.github.io/da-slides/primary-data-planning)
+- [Data Management Planning](https://mrmatho.github.io/da-slides/data-management)
+- [Consent](https://mrmatho.github.io/da-slides/informed-consent)
+
 ## Research Questions in the Study Design
 
 ### Unit 3 Outcome 2

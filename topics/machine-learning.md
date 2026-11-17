@@ -8,6 +8,13 @@ Machine learning allows computers to learn from data without being explicitly pr
 analysing data, as well as using machine learning for making predictions or recommendations. AI is also part of our study of
 cyber security and ethical issues.
 
+## Related Slideshows
+
+- [AI in Analytics](https://mrmatho.github.io/da-slides/ai-analytics)
+- [Emerging Trends in Cyber Security](https://mrmatho.github.io/da-slides/cybersecurity-trends)
+- [Ethics in Data Analytics](https://mrmatho.github.io/da-slides/data-ethics)
+- [Visualisations using Streamlit, Python, Pandas and Plotly](https://mrmatho.github.io/da-slides/streamlit-visualisations)
+
 ## Key Concepts
 
 - **Supervised vs. Unsupervised Learning**: Understanding different types of learning.

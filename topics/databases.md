@@ -6,6 +6,15 @@
 
 Understanding databases is crucial for managing and analyzing data. This section covers relational database concepts, SQL commands, and database management.
 
+## Related Slideshows
+
+- [Databases and SQL](https://mrmatho.github.io/da-slides/sql-basics)
+- [Joining Tables in SQL](https://mrmatho.github.io/da-slides/sql-joins)
+- [Testing Spreadsheets and Databases](https://mrmatho.github.io/da-slides/spreadsheet-database-testing)
+- [Validating Database and Spreadsheets](https://mrmatho.github.io/da-slides/data-validation)
+- [Characteristics of Data Integrity](https://mrmatho.github.io/da-slides/data-integrity)
+- [SAT Database Work](https://mrmatho.github.io/da-slides/sat-database-work)
+
 ## Main Concepts
 
 - **Relational Database Management**: Understanding tables, primary keys, and foreign keys.

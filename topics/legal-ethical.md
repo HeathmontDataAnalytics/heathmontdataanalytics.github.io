@@ -6,6 +6,16 @@
 
 Understanding the legal and ethical aspects of data handling is crucial for compliance and trust. This section covers privacy laws, data protection, and ethical decision-making. It incorporates acknowledgement of intellectual property using the APA referencing system.
 
+## Related Slideshows
+
+- [Consent](https://mrmatho.github.io/da-slides/informed-consent)
+- [Legal Constraints on Data Collection](https://mrmatho.github.io/da-slides/data-collection-law)
+- [Legal Constraints](https://mrmatho.github.io/da-slides/privacy-legislation)
+- [Notifiable Data Breaches](https://mrmatho.github.io/da-slides/data-breach-notices)
+- [Ethics in Data Analytics](https://mrmatho.github.io/da-slides/data-ethics)
+- [Data Management Planning](https://mrmatho.github.io/da-slides/data-management)
+- [Characteristics of Data Integrity](https://mrmatho.github.io/da-slides/data-integrity)
+
 ## Key Concepts
 
 - **Privacy Laws**: What laws exist? Who do they apply to? What do you need to do to follow the law?

@@ -4,6 +4,15 @@
 
 Data collection is the process of gathering and measuring information on targeted variables in an established system, which then enables one to answer relevant questions and evaluate outcomes. Data collection is a fundamental aspect of research, and it is important to understand the methods used to collect data. This section covers the main methods of data collection, including primary and secondary data collection methods.
 
+## Related Slideshows
+
+- [Research Questions](https://mrmatho.github.io/da-slides/research-questions)
+- [Project Management and Collecting Primary Data](https://mrmatho.github.io/da-slides/primary-data-planning)
+- [Consent](https://mrmatho.github.io/da-slides/informed-consent)
+- [Data Management Planning](https://mrmatho.github.io/da-slides/data-management)
+- [Legal Constraints on Data Collection](https://mrmatho.github.io/da-slides/data-collection-law)
+- [Ethics in Data Analytics](https://mrmatho.github.io/da-slides/data-ethics)
+
 ## Primary and Secondary Data
 
 In Data Analytics we separate the data we collect into two categories: primary data and secondary data. Whether a given data collection is primary or secondary depends on how the data was collected. Data that is collected **by the researcher(s) themselves** is primary data, while data that was **collected by someone else** is secondary data.
