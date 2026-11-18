@@ -14,7 +14,7 @@ This section covers what the study design expects from a research question, the 
 - [Research Questions](https://mrmatho.github.io/da-slides/research-questions)
 - [Project Management and Collecting Primary Data](https://mrmatho.github.io/da-slides/primary-data-planning)
 - [Data Management Planning](https://mrmatho.github.io/da-slides/data-management)
-- [Consent](https://mrmatho.github.io/da-slides/informed-consent)
+- [Informed Consent](https://mrmatho.github.io/da-slides/informed-consent)
 
 ## Research Questions in the Study Design
 
