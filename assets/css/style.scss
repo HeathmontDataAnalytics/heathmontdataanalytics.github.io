@@ -1,98 +1,166 @@
 ---
 ---
 
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Public+Sans:wght@400;500;600;700&display=swap");
 @import "{{ site.theme }}";
 
-// Your CSS here
+:root {
+    --gm-navy: #1e3a5f;
+    --gm-surface: #ffffff;
+    --gm-surface-tint: #f1f5f9;
+    --gm-heading: #1e3a5f;
+    --gm-ink: #1f2937;
+    --gm-text-secondary: #5f6875;
+    --gm-accent: #5b6b80;
+    --gm-border: #9ca3af;
+    --gm-mark-strong: #dcfce7;
+    --gm-mark-em: #ffe4e6;
+    --gm-mark-link: #ffedd5;
+    --gm-mark-em-strong: #fef3c7;
+    --gm-font-heading: "Outfit", system-ui, sans-serif;
+    --gm-font-body: "Public Sans", system-ui, sans-serif;
+    --gm-space-1: 4px;
+    --gm-space-2: 8px;
+    --gm-space-3: 12px;
+    --gm-space-4: 16px;
+    --gm-space-6: 24px;
+    --gm-space-8: 32px;
+    --gm-space-12: 48px;
+    --gm-space-16: 64px;
+    --gm-radius-sm: 4px;
+    --gm-radius-md: 8px;
+    --gm-radius-full: 9999px;
+}
+
 body {
-    font-size: 15px;
-    line-height: 1.2;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    background: var(--gm-surface);
+    color: var(--gm-ink);
+    font-family: var(--gm-font-body);
+    font-size: 16px;
+    line-height: 1.6;
 }
 
 .wrapper {
-    width: 900px;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 940px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 var(--gm-space-4);
 }
+
 section {
-    padding: 20px 0;
-    width: 900px;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 900px;
+    padding: var(--gm-space-6) 0;
+}
+
+h1, h2, h3 {
+    clear: both;
+    color: var(--gm-heading);
+    font-family: var(--gm-font-heading);
 }
 
 th, td {
     text-align: left;
-    padding: 5px 10px;
-    border: 1px solid #d0d0d0;
+    padding: var(--gm-space-2) var(--gm-space-3);
+    border: 1px solid var(--gm-border);
 }
 
 th {
-    background-color: #e0e0e0;
+    background-color: var(--gm-surface-tint);
     font-weight: bold;
 }
 
 tr:nth-child(even) {
-    background-color: #f0f0f0;
+    background-color: var(--gm-surface-tint);
 }
 
 section p img {
-    float:right;
-    margin: 0px 10px 8px 3px;
+    float: right;
+    max-width: 100%;
+    height: auto;
+    margin: 0 var(--gm-space-2) var(--gm-space-2) var(--gm-space-1);
 }
 
 header {
     float: none;
     position: static;
     width: auto;
-    background: beige;
-    border-radius: 40px;
-    padding: 25px 8px 2px 8px;
-    text-align:center;
+    background: var(--gm-surface-tint);
+    border: 1px solid var(--gm-border);
+    border-radius: var(--gm-radius-md);
+    padding: var(--gm-space-6) var(--gm-space-4);
+    text-align: center;
 }
 
 header h1 a {
-    color: #333366;
-    font-size:1.2em;
-}
-
-h1, h2, h3{
-    clear: both;
+    color: var(--gm-navy);
+    font-size: 1.2em;
 }
 
 section h1 {
     font-size: 28px;
-    background-color: #333366;
-    padding: 12px 12px;
-    border-radius: 15px;
-    color: #FFFFFF;
+    background-color: var(--gm-navy);
+    padding: var(--gm-space-3);
+    border-radius: var(--gm-radius-md);
+    color: var(--gm-surface);
 }
 
 section h2 {
     font-size: 24px;
-    background-color: #4646aa;
-    padding: 10px 12px;
-    border-radius: 15px;
-    color: #e4e3fc;
+    background-color: var(--gm-surface-tint);
+    padding: var(--gm-space-2) var(--gm-space-3);
+    border-radius: var(--gm-radius-md);
+    color: var(--gm-navy);
 }
 
 section h3 {
     font-size: 20px;
-    background-color: #a7a7da;
-    padding: 8px 12px;
-    border-radius: 15px;
+    padding: var(--gm-space-2) var(--gm-space-3);
 }
 
 section ul {
-    padding-top:8px;
-    padding-bottom:8px;
-    border-top:#a7a7da 1px solid;
-    border-bottom:#a7a7da 1px solid;
+    padding-top: var(--gm-space-2);
+    padding-bottom: var(--gm-space-2);
+    border-top: 1px solid var(--gm-border);
+    border-bottom: 1px solid var(--gm-border);
+}
+
+a {
+    color: var(--gm-navy);
+}
+
+a:hover {
+    background-color: var(--gm-mark-link);
+    border-radius: var(--gm-radius-sm);
+}
+
+strong {
+    background-color: var(--gm-mark-strong);
+}
+
+em {
+    background-color: var(--gm-mark-em);
+}
+
+strong em, em strong {
+    background-color: var(--gm-mark-em-strong);
 }
 
 footer {
     position: unset;
+    color: var(--gm-text-secondary);
 }
 
 .view {
-    font-size:0.7em;
+    font-size: 0.7em;
+}
+
+@media (max-width: 600px) {
+    section p img {
+        float: none;
+        display: block;
+        margin: 0 auto var(--gm-space-4);
+    }
 }
