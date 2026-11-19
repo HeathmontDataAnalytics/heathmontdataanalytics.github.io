@@ -27,6 +27,10 @@ Understanding databases is crucial for managing and analyzing data. This section
 
 **Key Knowledge:**
 
+- characteristics of data types, including:
+  - text (character, string)
+  - numeric (integer, floating point, date/time)
+  - Boolean
 - structural characteristics of relational database management systems (RDBMS), including:
   - data types and field sizes
   - data in tables
@@ -50,6 +54,39 @@ Understanding databases is crucial for managing and analyzing data. This section
 **Key Skills:**
 
 - identify, select, extract and validate relevant data from large repositories using database software
+- develop and apply suitable testing techniques to software tools used
+
+### Unit 3 Outcome 2
+
+**Key Knowledge:**
+
+- methods for collecting secondary data, including:
+  - querying of data stored in large repositories
+- characteristics of data types and data structures relevant to manipulating collected data
+- design tools for generating solution designs from design ideas, including:
+  - input-process-output (IPO) charts
+  - query designs.
+
+**Key Skills:**
+
+- apply techniques for searching, collecting, referencing and managing data sets
+
+### Unit 4 Outcome 1
+
+**Key Knowledge:**
+
+- effective and efficient methods to manipulate data using software tools, including:
+  - software functions
+- techniques for improving data quality by validating and verifying data, including:
+  - existence checking
+  - type checking
+  - range checking
+  - checking end-to-end data integrity from collection to visualisation
+  - proofreading
+
+**Key Skills:**
+
+- select and apply data validation, verification and testing techniques
 
 *Study design key knowledge and key skills are taken verbatim from the VCE Applied Computing Study Design 2025-2028* **© Victorian Curriculum and Assessment Authority. For current versions and related content visit [www.vcaa.vic.edu.au](https://www.vcaa.vic.edu.au)**
 
@@ -63,7 +100,7 @@ The information about design tools covers both spreadsheets and databases, so th
 
 ### Unit 4 Outcome 1 Note
 
-*While databases may be used in the Unit 4 Outcome 1 SAT task, the key knowledge and key skills do not directly mention database use.*
+*While databases may be used in the Unit 4 Outcome 1 SAT task, the key knowledge and key skills do not directly mention database use. The Unit 4 Outcome 1 points above apply to databases when they are used to manipulate and validate data for the SAT.*
 
 ---
 

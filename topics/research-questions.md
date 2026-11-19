@@ -27,6 +27,9 @@ This section covers what the study design expects from a research question, the 
   - measurability of data requirements
   - feasibility
   - originality
+- suitability of quantitative and qualitative data for manipulation to prepare for data visualisations, including:
+  - coding of qualitative data
+  - identifying trends, relationships and patterns
 
 **Key Skills:**
 

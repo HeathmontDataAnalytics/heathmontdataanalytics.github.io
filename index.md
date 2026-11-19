@@ -14,6 +14,7 @@ Explore the **Course Planner** below, dive into the **Topic Pages** for detailed
 - [Spreadsheets and Data Cleansing](topics/spreadsheets.md)
 - [Data Visualisation Techniques](topics/visualisations.md)
 - [Research Questions and Data Analysis](topics/research-questions.md)
+- [Analysis](topics/analysis.md)
 - [Data Collection Methods](topics/data-collection.md)
 - [Project Management Strategies](topics/project-management.md)
 - [Legal and Ethical Considerations](topics/legal-ethical.md)

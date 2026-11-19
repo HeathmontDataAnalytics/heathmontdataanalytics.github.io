@@ -23,6 +23,10 @@ Spreadsheets are powerful tools for data analysis and management. This section f
 
 **Key Knowledge:**
 
+- characteristics of data types, including:
+  - text (character, string)
+  - numeric (integer, floating point, date/time)
+  - Boolean
 - design tools for representing databases and spreadsheets, including:
   - data dictionaries
   - query designs
@@ -44,22 +48,50 @@ Spreadsheets are powerful tools for data analysis and management. This section f
 **Key Skills:**
 
 - manipulate and cleanse data using spreadsheet software
+- conduct statistical analysis to identify trends, relationships and patterns
 - develop and apply suitable testing techniques to software tools used
+
+### Unit 3 Outcome 2
+
+**Key Knowledge:**
+
+- characteristics of data types and data structures relevant to manipulating collected data
+- suitability of quantitative and qualitative data for manipulation to prepare for data visualisations, including:
+  - coding of qualitative data
+  - identifying trends, relationships and patterns
+- characteristics of data integrity, including:
+  - accuracy
+  - authenticity
+  - correctness
+  - reasonableness
+  - relevance
+  - timeliness
+- design tools for generating solution designs from design ideas, including:
+  - input-process-output (IPO) charts
+  - query designs.
 
 ### Unit 4 Outcome 1
 
 **Key Knowledge:**
 
 - effective and efficient methods to manipulate data using software tools, including:
+  - use of templates
   - software functions
 - techniques for analysing data to refine findings for data visualisations, including:
   - descriptive statistics (average, median, minimum, maximum, range, standard deviation, count/frequency, sum)
   - Pearson's correlation co-efficient (r)
   - the shape and skew of data
+- techniques for improving data quality by validating and verifying data, including:
+  - existence checking
+  - type checking
+  - range checking
+  - checking end-to-end data integrity from collection to visualisation
+  - proofreading
 
 **Key Skills:**
 
 - conduct statistical analysis to identify trends, relationships and patterns
+- select and apply data validation, verification and testing techniques
 
 *Study design key knowledge and key skills are taken verbatim from the VCE Applied Computing Study Design 2025-2028.*
 **© Victorian Curriculum and Assessment Authority. For current versions and related content visit [www.vcaa.vic.edu.au](https://www.vcaa.vic.edu.au)**

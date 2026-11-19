@@ -51,6 +51,10 @@ Understanding the legal and ethical aspects of data handling is crucial for comp
   - use of citations
   - creation of reference lists
 
+**Key Skills:**
+
+- apply techniques for searching, collecting, referencing and managing data sets
+
 ### Unit 4 Outcome 2
 
 **Key Knowledge:**

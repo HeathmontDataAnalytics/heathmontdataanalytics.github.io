@@ -29,6 +29,10 @@ Data visualisation helps convey complex information clearly. This section covers
 
 - emerging trends in data analytics using artificial intelligence, including:
   - generating data visualisations through the writing and refinement of prompts
+- techniques to statistically analyse data to identify trends, relationships and patterns, including:
+  - descriptive statistics (average, median, minimum, maximum, range, standard deviation, count/frequency, sum)
+  - Pearson's correlation co-efficient (r)
+  - the shape and skew of data
 - purposes of data visualisations, including:
   - exploratory data analysis
   - presentation of information
@@ -49,8 +53,88 @@ Data visualisation helps convey complex information clearly. This section covers
 
 **Key Skills:**
 
+- conduct statistical analysis to identify trends, relationships and patterns
 - select, justify and apply functions, formats and conventions to create effective data visualisations
 - develop and apply suitable testing techniques to software tools used.
+
+### Unit 3 Outcome 2
+
+**Key Knowledge:**
+
+- ideation techniques and tools for generating design ideas, including:
+  - mood boards
+  - brainstorming
+  - mind maps
+  - sketches
+  - annotations
+- design principles that influence the appearance and functionality of infographics and dynamic data visualisations, including:
+  - alignment
+  - balance
+  - contrast
+  - image use
+  - space
+  - text and table formatting
+  - usability
+  - navigation
+  - interactivity
+- criteria for evaluating design ideas and the efficiency and effectiveness of infographics and dynamic data visualisations
+- design tools for generating solution designs from design ideas, including:
+  - storyboards
+  - mock-ups
+  - input-process-output (IPO) charts
+  - query designs.
+
+**Key Skills:**
+
+- generate design ideas using appropriate ideation techniques and tools
+- develop evaluation criteria for design ideas and the efficiency and effectiveness of infographics and dynamic data visualisations
+- produce detailed designs using appropriate design principles and tools.
+
+### Unit 4 Outcome 1
+
+**Key Knowledge:**
+
+- effective and efficient methods to manipulate data using software tools, including:
+  - use of artificial intelligence tools to represent data and information
+- techniques for analysing data to refine findings for data visualisations, including:
+  - descriptive statistics (average, median, minimum, maximum, range, standard deviation, count/frequency, sum)
+  - Pearson's correlation co-efficient (r)
+  - the shape and skew of data
+- characteristics of information for target audiences, including:
+  - age appropriateness
+  - commonality of language
+  - culture and gender inclusiveness
+- techniques for developing infographics and dynamic data visualisations, including:
+  - organising the hierarchy of information
+  - pagination
+  - clarifying data refresh requirements
+- formats and conventions applied to infographics and dynamic data visualisations to improve their effectiveness for intended users, including:
+  - use of colours, fonts, images and icons
+  - visual hierarchy and clarity of message
+- techniques for improving data quality by validating and verifying data, including:
+  - existence checking
+  - type checking
+  - range checking
+  - checking end-to-end data integrity from collection to visualisation
+  - proofreading
+- techniques for testing that data visualisations work as intended, including:
+  - visual inspection of the appearance of the data visualisation
+  - confirming that charts and graphs are representative of the data being visualised
+- features of evaluation strategies, including:
+  - criteria
+  - time frame
+  - responsibility
+- techniques for applying evaluation criteria
+
+**Key Skills:**
+
+- conduct statistical analysis to identify trends, relationships and patterns
+- apply formats and conventions to develop infographics and/or dynamic data visualisations using software
+- select and apply data validation, verification and testing techniques
+- evaluate the efficiency and effectiveness of infographics and/or dynamic data visualisations
+
+*Study design key knowledge and key skills are taken verbatim from the VCE Applied Computing Study Design 2025-2028.*
+**© Victorian Curriculum and Assessment Authority. For current versions and related content visit [www.vcaa.vic.edu.au](https://www.vcaa.vic.edu.au)**
 
 ## Purposes of Data Visualisations
 
